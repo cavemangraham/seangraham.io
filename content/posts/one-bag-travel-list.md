@@ -3,13 +3,15 @@ title: One Bag Travel List
 date: 2018-04-03 19:23:10 +0000
 
 ---
-### Bag
+### The Bag
+
+![](/uploads/2018/04/03/homebase_bag.jpg)
 
 I probably spent a dozen hours looking for a bag that would fit my needs. I wanted something that was water-resistant, compact, and not overly burdened by random pockets and tassles. Top contenders were the Minaal 2.0(a bit pricey at $299 and I just naturally distrust kickstarter products), Osprey Farpoint 40(too Jansport-y), GoRuck GR2(Way too expensive at $399 and heavy) but I eventually settles on the [Tortuga Homebase](https://www.tortugabackpacks.com/products/homebase-digital-nomad-travel-backpack) because although its very small, with only 32L capacity, the main compartment is very open. It also has zippers the go all the way around the compartment so it can be opened like a clamshell. This makes it super easy to pack and get access to clothing. Having just three main compartments simplifies packing and makes it really easy for me to know where my things are rather than having to hunt through a dozen small pockets. Under the main compartment is where I store my laptop, work notepad, and an ultra-thin ASUS lcd screen
 
 ### Clothing
 
-![](/uploads/2018/04/03/IMG_3868-1.JPG)
+![](/uploads/IMG_3868.JPG)
 
 **3 pair** [**Lululemon Surge Sock**](https://shop.lululemon.com/p/men-socks/Surge-Sock/_/prod8520007?color=LM9626S_0002&skuId=3774581&locale=en_US&sl=US&CAWELAID=120278590000311002&CID=Google_Fetch_SHOP_A165_A822_C017432&gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hELWngx6KTMkJteqHuIu2b_P3sFEoEIITqfuF0CEqRam82KHQfIQfEaAkCFEALw_wcB&gclsrc=aw.ds) - I don't know why women's sock technology is so far ahead of men's but Lululemon socks fit great and resist odors which is key for me since my feet are known for their toxic properties.
 
@@ -35,9 +37,12 @@ Underarmor Longsleeve with Hood
 
 ### Technology
 
+![](/uploads/IMG_3869.JPG)
+
+![](/uploads/IMG_3871.JPG)
+
 ### Paperwork
 
 ### Toiletries
-
 
 ### Misc
