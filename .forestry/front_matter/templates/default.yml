@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/the-good--the-bad--and-the-ugly-of-the-amazon-echo.md
 hide_body: false
 fields:
 - name: title
