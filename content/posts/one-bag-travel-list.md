@@ -111,4 +111,4 @@ Floss
 
 I studied a bunch of minimal packing lists from various blogs as well as my own research and testing to get to this list of items. I'm sure my packing choices will only get more refined while I'm on the road so it will be interesting to see how my packing list changes over time. Hopefully someone out there doing the same research I did will find this and be able to make the best use of their travel budget.
 
-\*I cheated a bit by not counting any credit cards or charging cables. But its my list so I'll cheat if I want to
+\*I cheated a bit by not counting any small stuff like credit cards, charging cables, power blocks. But its my list so I'll cheat if I want to
