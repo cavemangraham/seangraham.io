@@ -69,6 +69,8 @@ Passport -
 
 ![](/uploads/IMG_3878.JPG)
 
+[Toiletry Bag](https://www.amazon.com/gp/product/B073XDGB8H/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) -
+
 Safety Razor and Replacement Blades -
 
 [Lush Dirty Styling Cream](https://www.lushusa.com/hair/styling/dirty-hair-cream/03104.html) -
@@ -78,8 +80,6 @@ Safety Razor and Replacement Blades -
 [Universal Drain Plug](https://www.amazon.com/gp/product/B0038JE650/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) -
 
 Oral-B Pulsing Toothbrush -
-
-[Toiletry Bag](https://www.amazon.com/gp/product/B073XDGB8H/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) -
 
 Toothpaste
 
