@@ -67,6 +67,8 @@ Chromecast V1 - Just found out theres a new fangled V2 thats has a 4x faster con
 
 Asus LED USB Monitor -
 
+Apple Headphones
+
 ### Paperwork - 2 Items
 
 Wallet - Black leather wallet that I've had since I turned 18. One of the best birthday gifts I've ever gotten and its served me perfectly since then.
@@ -105,7 +107,7 @@ Floss
 
 [Microfiber Towel](https://www.amazon.com/gp/product/B073RLH9M6/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) - Microfiber towels kinda suck. They feel like you're rubbing a super thin napkin on yourself rather than a fluffy beach towel BUT they fold down to almost nothing and dry really quickly so I figure its good to have it around.
 
-### Summary - 39 Items Total\*
+### Summary - 41 Items Total\*
 
 I studied a bunch of minimal packing lists from various blogs to get to this list of items as well as my own research. The reason to even put this on the internet at all is to help out the next person who decides to go this route and make sure they're fully prepared for whatever the world throws at them.
 
