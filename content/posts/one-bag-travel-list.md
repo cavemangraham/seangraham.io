@@ -37,10 +37,12 @@ Underarmor Longsleeve with Hood
 
 ### Technology
 
-
-
 ### Paperwork
 
+![](/uploads/IMG_3873.JPG)
+
 ### Toiletries
+
+![](/uploads/IMG_3878.JPG)
 
 ### Misc
