@@ -39,9 +39,23 @@ Underarmor Longsleeve with Hood
 
 ![](/uploads/IMG_3869.JPG)
 
-![](/uploads/IMG_3871.JPG)
+Mid 2012 Mac Book Pro -
+
+Kindle Paperwhite -
+
+Anker Power Bank -
+
+Chromecast V1 -
+
+Asus LED USB Monitor -
 
 ### Paperwork
+
+Wallet -
+
+Passport -
+
+Local Currency -
 
 ### Toiletries
 
