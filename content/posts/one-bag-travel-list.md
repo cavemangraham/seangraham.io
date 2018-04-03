@@ -37,6 +37,14 @@ Underarmor Longsleeve with Hood
 
 ### Technology
 
+Macbook Pro Early 2012 -
+
+Kindle Paperwhite - 
+
+Chromecast
+
+Asus
+
 ### Paperwork
 
 Wallet -
