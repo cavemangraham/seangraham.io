@@ -39,14 +39,38 @@ Underarmor Longsleeve with Hood
 
 ### Paperwork
 
-Wallet - 
+Wallet -
 
 Passport -
+
+Local Currency -
 
 ### Toiletries
 
 ![](/uploads/IMG_3878.JPG)
 
+Safety Razor with Replacement Blades -
+
+Lush Argan Oil Solid Shampoo - 
+
+Lush Dirty Styling Cream - 
+
+Universal Drain Plug - Helps when you need to wash your clothes in a sink or bath tub. All of my clothes are quick drying fabric so I can wash and dry all of my clothes very quickly by hand.
+
+Dove Deodorant
+
+Mini Toothpaste
+
+Oral B Vibrating Toothbrush
+
+Glide Floss
+
 ### Misc
 
 ![](/uploads/IMG_3874.JPG)
+
+Blender Sunglasses - Generic black wayfarers. First thing I'll be doing in Thailand is getting some knockoff Ray-bans.
+
+Douglass L Field Lighter - 
+
+Universal Travel Adapter
