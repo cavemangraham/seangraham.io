@@ -1,4 +1,6 @@
 ---
+pages:
+- blog/one-bag-travel-list.md
 hide_body: false
 fields:
 - name: title
