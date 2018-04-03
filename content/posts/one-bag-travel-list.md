@@ -5,13 +5,15 @@ date: 2018-04-03 19:23:10 +0000
 ---
 ### The Idea
 
-I can't remember when I first learned about minimalist travel ideas or when they started to merge with remote work but the idea that you can earn a first world salary and use long term travel to save money has always interested me.
+I can't remember when I first learned about minimalist travel ideas or when they started to merge with remote work but the idea that you can earn a first world salary and use long term travel to save money has always interested me. I had a stable job and an apartment for a year before starting on this journey and I was getting very bored seeing, doing, and eating the same things all the time. I started thinking more about what I really wanted for my life and I think a key to my personal happiness is "novel experiences on a regular basis". What better way to have new experiences and grow as a person than getting rid of 95% of my stuff and living lean in exotic places?
 
 ### The Bag
 
 ![](/uploads/2018/04/03/homebase_bag.jpg)
 
-I probably spent a dozen hours looking for a bag that would fit my needs. I wanted something that was water-resistant, compact, and not overly burdened by random pockets and tassles. Top contenders were the Minaal 2.0(a bit pricey at $299 and I just naturally distrust kickstarter products), Osprey Farpoint 40(too Jansport-y), GoRuck GR2(Way too expensive at $399 and heavy) but I eventually settles on the [Tortuga Homebase](https://www.tortugabackpacks.com/products/homebase-digital-nomad-travel-backpack) because although its very small, with only 32L capacity, the main compartment is very open. It also has zippers the go all the way around the compartment so it can be opened like a clamshell. This makes it super easy to pack and get access to clothing. Having just three main compartments simplifies packing and makes it really easy for me to know where my things are rather than having to hunt through a dozen small pockets. Under the main compartment is where I store my laptop, work notepad, and an ultra-thin ASUS lcd screen
+I probably spent 20+ hours looking for a bag that would fit all my needs. If I'm going to be cramming my entire life into it for months or possibly years on end its a huge decision. The bag would basically be my house.
+
+I wanted something that was water-resistant, compact, and not overly burdened by random pockets and extraneous features. Top contenders were the Minaal 2.0(a bit pricey at $299 and I just naturally distrust kickstarter products), Osprey Farpoint 40(too Jansport-y), GoRuck GR2(Way too expensive at $399 and heavy) but I eventually settles on the [Tortuga Homebase](https://www.tortugabackpacks.com/products/homebase-digital-nomad-travel-backpack) because although its very small, with only 32L capacity, the main compartment is very open. It also has zippers the go all the way around the compartment so it can be opened like a clamshell. This makes it super easy to pack and get access to clothing. Having just three main compartments simplifies packing and makes it really easy for me to know where my things are rather than having to hunt through a dozen small pockets. Under the main compartment is where I store my laptop, work notepad, and an ultra-thin ASUS lcd screen
 
 ### Clothing
 
