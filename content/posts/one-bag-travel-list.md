@@ -41,7 +41,7 @@ Underarmor Longsleeve with Hood
 
 [Lululemon ABC Pant](https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-34/_/prod3470051?color=26857) - They look like dress pants but feel and stretch like pajamas. Really great for the airport since it has a front-right zipper pocket perfectly shaped to secure your passport.
 
-2 [Birddogs Shorts](https://www.birddogs.com/collections/the-gym-shorts?gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hEaevivnHmyzUvB0jxgBeXdOX7Xlu--5A8UoiaWYf_FrIwJVA0KaXoaArGNEALw_wcB) - These shorts double as swim trunks and feature a comfortable inner liner which is helpful since going "commando" can be much more comfortable in the tropics. They have two zipper pockets in addition to the front pockets which are perfect for storing phone and keys/card which is great because i do a lot of handstands so it helps keep things from falling out of my pockets.
+2 [Birddogs Shorts](https://www.birddogs.com/collections/the-gym-shorts?gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hEaevivnHmyzUvB0jxgBeXdOX7Xlu--5A8UoiaWYf_FrIwJVA0KaXoaArGNEALw_wcB) - These shorts double as swim trunks and feature a comfortable inner liner which is helpful since going "commando" can be much more comfortable in the tropics. They have two zipper pockets in addition to the front pockets which are perfect for storing my phone and keys which is great because i do a lot of handstands so it helps keep things from falling out of my pockets.
 
 ### Technology - 5 Items
 
