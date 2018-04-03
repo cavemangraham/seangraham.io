@@ -97,4 +97,8 @@ Floss
 
 [Microfiber Towel](https://www.amazon.com/gp/product/B073RLH9M6/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) -
 
-### Summary - 39 Items Total
+### Summary - 39 Items Total\*
+
+I studied a bunch of minimal packing lists from various blogs to get to this list of items as well as my own research. The reason to even put this on the internet at all is to help out the next person who decides to go this route and make sure they're fully prepared for whatever the world throws at them.
+
+\*I cheated a bit by not counting any credit cards or charging cables. But its my list so I'll cheat if I want to
