@@ -10,4 +10,4 @@ I'm a programmer, entrepreneur, traveller, and problem solver.
 
 I am currently in San Francisco building my experimental software studio Hyperdrive Labs.
 
-I do lots of handstands and regularly eat my bodyweight in Stromboli, tacos, and sushi.
+I do lots of handstands and regularly eat my bodyweight in stromboli, tacos, and sushi.
