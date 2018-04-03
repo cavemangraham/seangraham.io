@@ -43,6 +43,10 @@ Underarmor Longsleeve with Hood
 
 2 [Birddogs Shorts](https://www.birddogs.com/collections/the-gym-shorts?gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hEaevivnHmyzUvB0jxgBeXdOX7Xlu--5A8UoiaWYf_FrIwJVA0KaXoaArGNEALw_wcB) - These shorts double as swim trunks and feature a comfortable inner liner which is helpful since going "commando" can be much more comfortable in the tropics. They have two zipper pockets in addition to the front pockets which are perfect for storing my phone and keys which is great because i do a lot of handstands so it helps keep things from falling out of my pockets.
 
+### Footwear - 2 Items
+
+![](/uploads/IMG_3889.JPG)
+
 ### Technology - 5 Items
 
 ![](/uploads/IMG_3869.JPG)
