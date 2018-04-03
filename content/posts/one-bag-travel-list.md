@@ -89,13 +89,13 @@ Floss
 
 ![](/uploads/IMG_3874.JPG)
 
-[Blender Sunglasses](https://www.blenderseyewear.com/collections/top-selects-blenders-eyewear/products/nocturnal-q) -
+[Blender Sunglasses](https://www.blenderseyewear.com/collections/top-selects-blenders-eyewear/products/nocturnal-q) - Generic black wayfarers. Thailand makes great Ray-bans knockoffs so they'll probably be replaced soon.
 
-[Douglass L Field Lighter](https://urbanedcsupply.com/products/douglass-field-l-lighter) -
+[Douglass L Field Lighter](https://urbanedcsupply.com/products/douglass-field-l-lighter) - I got this to replace using disposable plastic Bic lighters. First, I tried to use a Zippo but the fuel evaporates every week whether you used it or not. I hate maintenance like that so I found this WW1-inspired lighter thats handcrafted in Japan. It has an O-ring so the fuel inside it will last up to a year without "going dry".
 
-[Universal Travel Adapter](https://www.amazon.com/gp/product/B00OFRGEEK/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) -
+[Universal Travel Adapter](https://www.amazon.com/gp/product/B00OFRGEEK/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) - Basic adapter with some extra USB outlets on the side. Very important to get a universal one rather than lugging around a bunch of different power blocks.
 
-[Microfiber Towel](https://www.amazon.com/gp/product/B073RLH9M6/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) -
+[Microfiber Towel](https://www.amazon.com/gp/product/B073RLH9M6/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) - Microfiber towels kinda suck. They feel like you're rubbing a super thin napkin on yourself rather than a fluffy beach towel BUT they fold down to almost nothing and dry really quickly so I figure its good to have it around.
 
 ### Summary - 39 Items Total\*
 
