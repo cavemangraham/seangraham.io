@@ -37,9 +37,7 @@ Underarmor Longsleeve with Hood
 
 ### Technology
 
-![](/uploads/IMG_3869.JPG)
 
-![](/uploads/IMG_3871.JPG)
 
 ### Paperwork
 
