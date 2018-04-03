@@ -15,11 +15,13 @@ I probably spent 20+ hours looking for a bag that would fit all my needs. If I'm
 
 I wanted something that was water-resistant, compact, and not overly burdened by random pockets and extraneous features. Top contenders were the Minaal 2.0(a bit pricey at $299 and I just naturally distrust kickstarter products), Osprey Farpoint 40(too Jansport-y), GoRuck GR2(Way too expensive at $399 and heavy) but I eventually settled on the [Tortuga Homebase](https://www.tortugabackpacks.com/products/homebase-digital-nomad-travel-backpack) because although its very small, with only 32L capacity, the main compartment is very open. It also has zippers the go all the way around the compartment so it can be opened like a clamshell. This makes it super easy to pack and get access to clothing. Having just three main compartments simplifies packing and makes it really easy for me to know where my things are rather than having to hunt through a dozen small pockets. Under the main compartment is where I store my laptop, work notepad, and an ultra-thin ASUS lcd screen
 
-### Clothing
+### Clothing - 24 Items
 
 ![](/uploads/IMG_3868.JPG)
 
 **3 pair** [**Lululemon Surge Sock**](https://shop.lululemon.com/p/men-socks/Surge-Sock/_/prod8520007?color=LM9626S_0002&skuId=3774581&locale=en_US&sl=US&CAWELAID=120278590000311002&CID=Google_Fetch_SHOP_A165_A822_C017432&gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hELWngx6KTMkJteqHuIu2b_P3sFEoEIITqfuF0CEqRam82KHQfIQfEaAkCFEALw_wcB&gclsrc=aw.ds) - I don't know why women's sock technology is so far ahead of men's but Lululemon socks fit great and resist odors which is key for me since my feet are known for their toxic properties.
+
+5 pair Athletic Boxer Briefs
 
 Thick Hiking Socks
 
@@ -41,11 +43,13 @@ Underarmor Longsleeve with Hood
 
 2 [Birddogs Shorts](https://www.birddogs.com/collections/the-gym-shorts?gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hEaevivnHmyzUvB0jxgBeXdOX7Xlu--5A8UoiaWYf_FrIwJVA0KaXoaArGNEALw_wcB) - These shorts double as swim trunks and feature a comfortable inner liner which is helpful since going "commando" can be much more comfortable in the tropics. They have two zipper pockets in addition to the front pockets which are perfect for storing phone and keys/card which is great because i do a lot of handstands so it helps keep things from falling out of my pockets.
 
-### Technology
+### Technology - 5 Items
 
 ![](/uploads/IMG_3869.JPG)
 
 Mid 2012 Mac Book Pro -
+
+Iphone 6 - Not shown since it was taking the picture
 
 [Kindle Paperwhite](https://www.amazon.com/Amazon-Kindle-Paperwhite-6-Inch-4GB-eReader/dp/B00OQVZDJM/ref=sr_1_1?ie=UTF8&qid=1522795171&sr=8-1&keywords=kindle+paperwhite+e-reader) -
 
@@ -55,15 +59,13 @@ Chromecast V1 -
 
 Asus LED USB Monitor -
 
-### Paperwork
+### Paperwork - 2 Items
 
 Wallet -
 
 Passport -
 
-Local Currency -
-
-### Toiletries
+### Toiletries - 9 Items
 
 ![](/uploads/IMG_3878.JPG)
 
@@ -83,7 +85,7 @@ Toothpaste
 
 Floss
 
-### Misc
+### Misc - 4 Items
 
 ![](/uploads/IMG_3874.JPG)
 
@@ -95,4 +97,4 @@ Floss
 
 [Microfiber Towel](https://www.amazon.com/gp/product/B073RLH9M6/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) -
 
-### Summary
+### Summary - 39 Items Total
