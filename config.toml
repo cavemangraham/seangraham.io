@@ -3,7 +3,7 @@
 
 baseURL = "https://happy-clarke-230c41.netlify.com/"
 languageCode = "en-us"
-title = "Sean Graham"
+title = "seangraham.io"
 
 theme = "one"
 googleAnalytics = ""
