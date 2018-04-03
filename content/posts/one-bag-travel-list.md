@@ -109,6 +109,6 @@ Floss
 
 ### Summary - 42 Items Total\*
 
-I studied a bunch of minimal packing lists from various blogs to get to this list of items as well as my own research. The reason to even put this on the internet at all is to help out the next person who decides to go this route and make sure they're fully prepared for whatever the world throws at them.
+I studied a bunch of minimal packing lists from various blogs as well as my own research and testing to get to this list of items. I'm sure my packing choices will only get more refined while I'm on the road so it will be interesting to see how my packing list changes over time. Hopefully someone out there doing the same research I did will find this and be able to make the best use of their travel budget.
 
 \*I cheated a bit by not counting any credit cards or charging cables. But its my list so I'll cheat if I want to
