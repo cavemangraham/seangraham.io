@@ -25,9 +25,9 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 Thick Hiking Socks
 
-Underarmour Leggings
+Underarmour Leggings - Folds down to almost nothing since its so thin but can be layered under shorts or pants for colder nighttime temperatures.
 
-Patagonia Houdini Rain Shell
+Patagonia Houdini Rain Shell - Found this on sale for half-off but the only catch was I had to get it in a color other than black. This whole minimal travel experiment has basically turned me into a goth so it was probably a blessing in disguise.
 
 2 Cotton Tanktops
 
@@ -35,7 +35,7 @@ Underarmor Longsleeve with Hood
 
 [Grey Express Tshirt]() **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia.
 
-3 Airisms - I read some really over-the-top reviews for these garments and although they're ultralight and breathable they didn't like change my life or anything.
+3 Airisms - I read some really over-the-top reviews for these undergarments and although they're ultralight and breathable they didn't like change my life or anything. First time I've ever had an overhyped underwear situation on my hands.
 
 3 [Ultrathin Modal Tshirts](https://www.amazon.com/David-Archy-Underwear-V-Neck-Undershirts/dp/B00H4SOJ2Q) - Model is a magic space fabric thats super light and extremely soft on your skin. They fold down to almost nothing which is great for saving space.
 
