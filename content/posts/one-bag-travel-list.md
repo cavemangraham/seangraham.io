@@ -82,3 +82,13 @@ Toothpaste
 Floss
 
 ### Misc
+
+![](/uploads/IMG_3874.JPG)
+
+Blender Sunglasses - 
+
+Douglass L Field Lighter -
+
+Universal Travel Adapter -
+
+Microfiber Towel
