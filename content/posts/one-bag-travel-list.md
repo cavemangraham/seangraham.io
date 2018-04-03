@@ -35,7 +35,7 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 [**Grey Express Tshirt**]() **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia.
 
-**3 Airisms** - I read some really over-the-top reviews for these undergarments and although they're ultralight and breathable they didn't like change my life or anything. First time I've ever had an overhyped underwear situation on my hands.
+**3** [**Uniqlo Airisms**](https://www.uniqlo.com/us/en/men-airism-boxer-briefs-404999COL09SMB004000.html?s=shopping&gclid=Cj0KCQiA5aTUBRC2ARIsAPoPJk_V3ZI_fJBnMWGROyouTkecVZItQCvRrHOAYCjqhCHkO1PNH-y1Lv4aAhW6EALw_wcB) - I read some really over-the-top reviews for these and although they're ultralight and breathable they didn't like change my life or anything. This is the first time I've ever had to deal with an overhyped underwear situation.
 
 **3** [**Ultrathin Modal Tshirts**](https://www.amazon.com/David-Archy-Underwear-V-Neck-Undershirts/dp/B00H4SOJ2Q) - Model is a magic space fabric thats super light and extremely soft on your skin. They fold down to almost nothing which is great for saving space.
 
