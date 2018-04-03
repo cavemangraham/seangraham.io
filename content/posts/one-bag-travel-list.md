@@ -5,9 +5,9 @@ date: 2018-04-03 19:23:10 +0000
 ---
 ### The Bag
 
-![](/uploads/homebase_bag.jpg)
+![](/uploads/2018/04/03/homebase_bag.jpg)
 
-I probably spent a dozen hours looking for a bag that would fit my needs. I wanted something that was water-resistant, compact, and not overly burdened by random pockets and tassles. Top contenders were the Minaal 2.0(a bit pricey at $299 and I just naturally distrust kickstarter products), Osprey Farpoint 40(too Jansport-y), GoRuck GR2(Way too expensive at $399 and heavy) but I eventually settles on the [Tortuga Homebase](https://www.tortugabackpacks.com/products/homebase-digital-nomad-travel-backpack) because although its very small, with only 32L capacity, the main compartment is very open. It also has zippers the go all the way around the compartment so it can be opened like a clamshell. This makes it super easy to pack and get access to clothing. Having just three main compartments simplifies packing and makes it really easy for me to know where my things are rather than having to hunt through a dozen small pockets. Under the main compartment is where I store my laptop, work notepad, and an ultra-thin ASUS lcd screen. Also I just like the silvery color of the bag since it reminds me of an astronaut.
+I probably spent a dozen hours looking for a bag that would fit my needs. I wanted something that was water-resistant, compact, and not overly burdened by random pockets and tassles. Top contenders were the Minaal 2.0(a bit pricey at $299 and I just naturally distrust kickstarter products), Osprey Farpoint 40(too Jansport-y), GoRuck GR2(Way too expensive at $399 and heavy) but I eventually settles on the [Tortuga Homebase](https://www.tortugabackpacks.com/products/homebase-digital-nomad-travel-backpack) because although its very small, with only 32L capacity, the main compartment is very open. It also has zippers the go all the way around the compartment so it can be opened like a clamshell. This makes it super easy to pack and get access to clothing. Having just three main compartments simplifies packing and makes it really easy for me to know where my things are rather than having to hunt through a dozen small pockets. Under the main compartment is where I store my laptop, work notepad, and an ultra-thin ASUS lcd screen
 
 ### Clothing
 
@@ -37,48 +37,12 @@ Underarmor Longsleeve with Hood
 
 ### Technology
 
-Macbook Pro Early 2012 -
+![](/uploads/IMG_3869.JPG)
 
-Kindle Paperwhite - 
-
-Chromecast
-
-Asus
+![](/uploads/IMG_3871.JPG)
 
 ### Paperwork
 
-Wallet -
-
-Passport -
-
-Local Currency -
-
 ### Toiletries
 
-![](/uploads/IMG_3878.JPG)
-
-Safety Razor with Replacement Blades -
-
-Lush Argan Oil Solid Shampoo - 
-
-Lush Dirty Styling Cream - 
-
-Universal Drain Plug - Helps when you need to wash your clothes in a sink or bath tub. All of my clothes are quick drying fabric so I can wash and dry all of my clothes very quickly by hand.
-
-Dove Deodorant
-
-Mini Toothpaste
-
-Oral B Vibrating Toothbrush
-
-Glide Floss
-
 ### Misc
-
-![](/uploads/IMG_3874.JPG)
-
-Blender Sunglasses - Generic black wayfarers. First thing I'll be doing in Thailand is getting some knockoff Ray-bans.
-
-Douglass L Field Lighter - 
-
-Universal Travel Adapter
