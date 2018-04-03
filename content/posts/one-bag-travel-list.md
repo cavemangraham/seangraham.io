@@ -55,7 +55,7 @@ Reef Flip Flops - Perfect shoe for summer and the tropics. Very durable as each 
 
 ![](/uploads/IMG_3869.JPG)
 
-Mid 2012 Mac Book Pro -
+Mid 2012 Mac Book Pro - Got this off of craigslist when I was in college and had decided to get serious about programming. 
 
 Iphone 6 - Not shown since it was taking the picture
 
