@@ -8,6 +8,6 @@ Hi, I'm Sean.
 
 I'm a programmer, entrepreneur, traveller, and problem solver.
 
-I am currently in San Francisco building my experimental software studio Hyperdrive labs.
+I am currently in San Francisco building my experimental software studio Hyperdrive Labs.
 
 I do lots of handstands and regularly eat my bodyweight in Stromboli.
