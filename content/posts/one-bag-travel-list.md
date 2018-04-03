@@ -47,7 +47,7 @@ Underarmor Longsleeve with Hood
 
 Mid 2012 Mac Book Pro -
 
-Kindle Paperwhite -
+[Kindle Paperwhite](https://www.amazon.com/Amazon-Kindle-Paperwhite-6-Inch-4GB-eReader/dp/B00OQVZDJM/ref=sr_1_1?ie=UTF8&qid=1522795171&sr=8-1&keywords=kindle+paperwhite+e-reader) -
 
 [Anker Power Bank](https://www.amazon.com/gp/product/B00Z9QVE4Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) -
 
@@ -76,6 +76,8 @@ Safety Razor and Replacement Blades -
 [Universal Drain Plug](https://www.amazon.com/gp/product/B0038JE650/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) -
 
 Oral-B Pulsing Toothbrush -
+
+[Toiletry Bag](https://www.amazon.com/gp/product/B073XDGB8H/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) -
 
 Toothpaste
 
