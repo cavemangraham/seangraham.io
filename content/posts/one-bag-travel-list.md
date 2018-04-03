@@ -85,9 +85,9 @@ Floss
 
 ![](/uploads/IMG_3874.JPG)
 
-Blender Sunglasses -
+[Blender Sunglasses](https://www.blenderseyewear.com/collections/top-selects-blenders-eyewear/products/nocturnal-q) -
 
-Douglass L Field Lighter -
+[Douglass L Field Lighter](https://urbanedcsupply.com/products/douglass-field-l-lighter) -
 
 [Universal Travel Adapter](https://www.amazon.com/gp/product/B00OFRGEEK/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) -
 
