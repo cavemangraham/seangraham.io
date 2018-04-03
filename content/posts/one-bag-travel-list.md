@@ -59,4 +59,20 @@ Local Currency -
 
 ### Toiletries
 
+![](/uploads/IMG_3878.JPG)
+
+Safety Razor and Replacement Blades -
+
+Lush Dirty Styling Cream -
+
+Lush Argan Oil Shampoo Bar -
+
+Universal Drain Plug -
+
+Oral-B Pulsing Toothbrush -
+
+Toothpaste
+
+Floss
+
 ### Misc
