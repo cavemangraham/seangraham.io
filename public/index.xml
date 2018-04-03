@@ -1,27 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Sean Graham</title>
+    <link>https://happy-clarke-230c41.netlify.com/</link>
+    <description>Recent content on Sean Graham</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Apr 2018 19:23:10 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Apr 2018 12:41:29 -0700</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://happy-clarke-230c41.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Archives</title>
+      <link>https://happy-clarke-230c41.netlify.com/archives/</link>
+      <pubDate>Tue, 03 Apr 2018 12:41:29 -0700</pubDate>
+      
+      <guid>https://happy-clarke-230c41.netlify.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://happy-clarke-230c41.netlify.com/about/</link>
+      <pubDate>Tue, 03 Apr 2018 12:41:06 -0700</pubDate>
+      
+      <guid>https://happy-clarke-230c41.netlify.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>One Bag Travel List</title>
-      <link>/posts/one-bag-travel-list/</link>
+      <link>https://happy-clarke-230c41.netlify.com/posts/one-bag-travel-list/</link>
       <pubDate>Tue, 03 Apr 2018 19:23:10 +0000</pubDate>
       
-      <guid>/posts/one-bag-travel-list/</guid>
-      <description>Bag
-Clothing
-Technology
-Paperwork
-Toiletries
-Misc</description>
+      <guid>https://happy-clarke-230c41.netlify.com/posts/one-bag-travel-list/</guid>
+      <description>&lt;p&gt;Bag&lt;/p&gt;
+
+&lt;p&gt;Clothing&lt;/p&gt;
+
+&lt;p&gt;Technology&lt;/p&gt;
+
+&lt;p&gt;Paperwork&lt;/p&gt;
+
+&lt;p&gt;Toiletries&lt;/p&gt;
+
+&lt;p&gt;Misc&lt;/p&gt;
+</description>
     </item>
     
   </channel>
