@@ -9,7 +9,7 @@ I can't remember when I first learned about minimalist travel ideas or when they
 
 ### The Bag
 
-![](/uploads/2018/04/03/homebase_bag.jpg)
+![](/uploads/homebase_bag.jpg)
 
 I probably spent 20+ hours looking for a bag that would fit all my needs. If I'm going to be cramming my entire life into it for months or possibly years on end its a huge decision. The bag would basically be my house.
 
