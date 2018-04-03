@@ -59,7 +59,7 @@ Mid 2012 Mac Book Pro - Got this off of craigslist when I was in college and had
 
 Iphone 6 - Not shown since it was taking the picture
 
-[Kindle Paperwhite](https://www.amazon.com/Amazon-Kindle-Paperwhite-6-Inch-4GB-eReader/dp/B00OQVZDJM/ref=sr_1_1?ie=UTF8&qid=1522795171&sr=8-1&keywords=kindle+paperwhite+e-reader) -
+[Kindle Paperwhite](https://www.amazon.com/Amazon-Kindle-Paperwhite-6-Inch-4GB-eReader/dp/B00OQVZDJM/ref=sr_1_1?ie=UTF8&qid=1522795171&sr=8-1&keywords=kindle+paperwhite+e-reader) - While I love the feeling of flipping through a physical book theres just no way to beat having an entire library fit into your pocket. The e-ink screen keeps it running for weeks without having to worry about charging. Reading is definitely the easiest way to kill 5 hours at an airport and I wouldn't be able to carry enough physical books to stay satiated.
 
 [Anker Power Bank](https://www.amazon.com/gp/product/B00Z9QVE4Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) - 
 
