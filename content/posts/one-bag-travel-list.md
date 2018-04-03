@@ -3,6 +3,10 @@ title: One Bag Travel List
 date: 2018-04-03 19:23:10 +0000
 
 ---
+### The Idea
+
+I can't remember when I first learned about minimalist travel ideas or when they started to merge with remote work but the idea that you can earn a first world salary and use long term travel to save money has always interested me.
+
 ### The Bag
 
 ![](/uploads/2018/04/03/homebase_bag.jpg)
