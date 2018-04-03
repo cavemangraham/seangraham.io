@@ -61,9 +61,9 @@ Asus LED USB Monitor -
 
 ### Paperwork - 2 Items
 
-Wallet -
+Wallet - Black leather wallet that I've had since I turned 18. One of the best birthday gifts I've ever gotten and its served me perfectly since then.
 
-Passport -
+Passport - Don't lose this.
 
 ### Toiletries - 9 Items
 
