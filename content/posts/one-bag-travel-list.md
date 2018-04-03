@@ -47,9 +47,9 @@ Underarmor Longsleeve with Hood
 
 ![](/uploads/IMG_3889.JPG)
 
-Reef Flip Flops - 
+Reef Flip Flops - Perfect shoe for summer and the tropics. Very durable as each pair I've had lasts me 3-4 years before falling apart.
 
-[Black Leather Sanuk Loafer](https://www.amazon.com/Sanuk-Chibalicious-Deluxe-Slip-Loafer/dp/B06WRVK359) -
+[Black Leather Sanuk Loafer](https://www.amazon.com/Sanuk-Chibalicious-Deluxe-Slip-Loafer/dp/B06WRVK359) - I call these my "business slippers" since they're extremely comfortable but can totally work as part of a business casual outfit when I need to look presentable. They're also really easy to slip off at the airport when going through security.
 
 ### Technology - 6 Items
 
