@@ -89,6 +89,6 @@ Blender Sunglasses -
 
 Douglass L Field Lighter -
 
-Universal Travel Adapter -
+[Universal Travel Adapter](https://www.amazon.com/gp/product/B00OFRGEEK/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) -
 
-Microfiber Towel
+[Microfiber Towel](https://www.amazon.com/gp/product/B073RLH9M6/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) -
