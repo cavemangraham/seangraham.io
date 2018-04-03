@@ -69,11 +69,11 @@ Local Currency -
 
 Safety Razor and Replacement Blades -
 
-Lush Dirty Styling Cream -
+[Lush Dirty Styling Cream](https://www.lushusa.com/hair/styling/dirty-hair-cream/03104.html) -
 
-Lush Argan Oil Shampoo Bar -
+[Lush Argan Oil Shampoo Bar](https://www.lushusa.com/hair/shampoo-bars/jason-and-the-argan-oil/05564.html) -
 
-Universal Drain Plug -
+[Universal Drain Plug](https://www.amazon.com/gp/product/B0038JE650/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) -
 
 Oral-B Pulsing Toothbrush -
 
