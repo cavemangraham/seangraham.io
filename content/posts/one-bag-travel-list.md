@@ -1,5 +1,5 @@
 ---
-title: My "One Bag Travel" Packing List
+title: One Bag Travel
 date: 2018-04-03 19:23:10 +0000
 
 ---
