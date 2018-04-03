@@ -85,7 +85,7 @@ Floss
 
 ![](/uploads/IMG_3874.JPG)
 
-Blender Sunglasses - 
+Blender Sunglasses -
 
 Douglass L Field Lighter -
 
