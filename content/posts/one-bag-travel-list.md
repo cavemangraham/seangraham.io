@@ -19,25 +19,25 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 ![](/uploads/IMG_3868.JPG)
 
-**3 pair** [**Lululemon Surge Sock**](https://shop.lululemon.com/p/men-socks/Surge-Sock/_/prod8520007?color=LM9626S_0002&skuId=3774581&locale=en_US&sl=US&CAWELAID=120278590000311002&CID=Google_Fetch_SHOP_A165_A822_C017432&gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hELWngx6KTMkJteqHuIu2b_P3sFEoEIITqfuF0CEqRam82KHQfIQfEaAkCFEALw_wcB&gclsrc=aw.ds) - I don't know why women's sock technology is so far ahead of men's but Lululemon socks fit great and resist odors which is key for me since my feet are known for their toxic properties.
+**3** [**Lululemon Surge Sock**](https://shop.lululemon.com/p/men-socks/Surge-Sock/_/prod8520007?color=LM9626S_0002&skuId=3774581&locale=en_US&sl=US&CAWELAID=120278590000311002&CID=Google_Fetch_SHOP_A165_A822_C017432&gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hELWngx6KTMkJteqHuIu2b_P3sFEoEIITqfuF0CEqRam82KHQfIQfEaAkCFEALw_wcB&gclsrc=aw.ds) - I don't know why women's sock technology is so far ahead of men's but Lululemon socks fit great and resist odors which is key for me since my feet are known for their toxic properties.
 
-5 pair Athletic Boxer Briefs - Got these at Target or something. Not very exciting. Move along.
+**5 pair Athletic Boxer Briefs** - Got these at Target or something. Not very exciting. Move along.
 
-Thick Hiking Socks - Something thicker and higher to help prevent blisters and help protect a bit from ticks while hiking.
+**Thick Hiking Socks** - Something thicker and higher to help prevent blisters and help protect a bit from ticks while hiking.
 
-Underarmour Leggings - Folds down to almost nothing since its so thin but can be layered under shorts or pants for colder nighttime temperatures.
+**Underarmour Leggings** - Folds down to almost nothing since its so thin but can be layered under shorts or pants for colder nighttime temperatures.
 
-Patagonia Houdini Rain Shell - Found this on sale for half-off but the only catch was I had to get it in a color other than black. This whole minimal travel experiment has basically turned me into a goth so it was probably a blessing in disguise.
+**Patagonia Houdini Rain Shell** - Found this on sale for half-off but the only catch was I had to get it in a color other than black. This whole minimal travel experiment has basically turned me into a goth so it was probably a blessing in disguise.
 
-2 Cotton Tanktops
+**2 Cotton Tanktops**
 
-Underarmor Longsleeve with Hood - Thicker than the leggings but still folds down to almost nothing while being able to trap a lot of heat if stacked with a tshirt and my rain shell.
+**Underarmor Longsleeve with Hood** - Thicker than the leggings but still folds down to almost nothing while being able to trap a lot of heat if stacked with a tshirt and my rain shell.
 
-[Grey Express Tshirt]() **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia.
+[**Grey Express Tshirt**]() **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia.
 
-3 Airisms - I read some really over-the-top reviews for these undergarments and although they're ultralight and breathable they didn't like change my life or anything. First time I've ever had an overhyped underwear situation on my hands.
+**3 Airisms** - I read some really over-the-top reviews for these undergarments and although they're ultralight and breathable they didn't like change my life or anything. First time I've ever had an overhyped underwear situation on my hands.
 
-3 [Ultrathin Modal Tshirts](https://www.amazon.com/David-Archy-Underwear-V-Neck-Undershirts/dp/B00H4SOJ2Q) - Model is a magic space fabric thats super light and extremely soft on your skin. They fold down to almost nothing which is great for saving space.
+**3** [**Ultrathin Modal Tshirts**](https://www.amazon.com/David-Archy-Underwear-V-Neck-Undershirts/dp/B00H4SOJ2Q) - Model is a magic space fabric thats super light and extremely soft on your skin. They fold down to almost nothing which is great for saving space.
 
 [Lululemon ABC Pant](https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-34/_/prod3470051?color=26857) - They look like dress pants but feel and stretch like pajamas. Really great for the airport since it has a front-right zipper pocket perfectly shaped to secure your passport.
 
