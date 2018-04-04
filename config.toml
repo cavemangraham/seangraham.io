@@ -1,7 +1,7 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-baseURL = "https://www.seangraham.io/"
+baseURL = "http://www.seangraham.io/"
 languageCode = "en-us"
 title = "seangraham.io"
 
