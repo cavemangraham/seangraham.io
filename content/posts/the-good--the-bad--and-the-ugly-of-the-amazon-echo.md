@@ -12,6 +12,16 @@ Anywhoo, have you ever seen on the news stories where someone's tv activates the
 
 The things that the echo does well that make it at least somewhat useful are: Playing music, Ordering Certain Items, Asking Simple Questions.
 
+The ability I enjoy the most is being able to play music or start a playlist just using my voice. It is way easier to say: "Echo, play music" or "Echo, play jazz" than to type it into an app or even get out my phone/laptop. I can request songs from the shower or while my hands are busy cooking. Or if you're working out you can change music without having to stop.
+
+Ordering garbage bags on prime was an enlightening experience. I wanted to test what the ordering was like and I also didn't feel like going on an errand to get garbage bags. So I said "Echo, order me garbage bags." It thought for a split second and replied: "The top choice for garbage bags are Black Garbage Bag 60 pieces. That will be $12 dollars. Free shipping and it will arrive tomorrow."
+
+I said. "Yes, thats perfect"
+
+It charged the card I had on file and shipped it to the default address which was my apartment at the time. I even got an email confirmation so I knew exactly what transaction has taken place. Voila. Amazon is such a great enabler of my laziness.
+
+Simple questions like "What temperature is it? Whats the weather like today? Whats traffic like(gives you the time of your commute according to local traffic data)? When was America founded? Who was Amelia Earhart?
+
 First it was with text-bots, then building chatbots that interact over facebook messenger. One of the interesting things about a conversational agent is that it can, in theory, reach out to you right as its needed rather than the user having to initiate a query or question. From a business perspective it also makes it a theoretically much higher conversion rates are with one KEY caveat: you have to not annoy them or else it is spam and they will hate you. Your customers need to love you if you want them to spend money. So the majority of your messages need to be "value-add" to the person's life. It needs to be super easy to do and with very little "friction". As few queries and as simple "ease of saying" commands and instructions.
 
 JUMPER
