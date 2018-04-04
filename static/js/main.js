@@ -6,8 +6,6 @@ var quotes = [
   "movie buff",
   "gadget geek",
   "netflix binger",
-  "batman impersonator",
-  "arrow to the knee survivor",
   "rails fanboy",
   ];
 
