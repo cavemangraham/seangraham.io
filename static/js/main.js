@@ -1,3 +1,4 @@
+console.log("hello!");
 // Word slider
 var quotes = [
   "world traveller",
