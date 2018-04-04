@@ -1,7 +1,7 @@
 +++
 date = "2018-04-03T23:58:42+00:00"
 draft = true
-title = "The Good, The Bad, and the Ugly of the Amazon Echo"
+title = "Amazon Echo: The Good, The Bad, and the Ugly"
 
 +++
 I received a 2nd Gen Amazon Echo as a gift and have been using it semi-regularly for the past 3 months actively testing all of its capabilities since I have been interested in Conversational Ui as a platform for about a year now. 
