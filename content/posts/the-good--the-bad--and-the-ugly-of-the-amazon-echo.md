@@ -8,7 +8,7 @@ I received a 2nd Gen Amazon Echo as a gift and have been using it semi-regularly
 
 My initial thoughts are that it is in your best interest to change the "Wake Word" name in the settings from the default: "Alexa" to one of its alternates, "Echo". "Echo" is a whole syllable shorter than "Alexa". 2 vs 3. So really its 33.34% shorter for a word you are going to have to say every time you want to use the device. Imagine how many minutes and hours of your life you'll get back!
 
-Anywhoo, have you ever seen on the news stories where someone's tv activates their devices on purpose. Some ads have even put thing into people's shopping carts without their permission. But all of them use "Alexa" as the trigger word because that is what the default is and thus the majority of people. So changing the name of the Wake Word to "Echo" you are joining a smaller pool of users and large scale exploitations via TV or online ads will target the largest percentage of users which requires using "Alexa" as the trigger word.
+Anywhoo, have you ever seen a story on the news where someone's tv activates their devices on purpose? Some ads have even put things into people's shopping carts without their permission. But all of them use "Alexa" as the trigger word because that is what the default is and thus the majority of people. So changing the name of the Wake Word to "Echo" you are joining a smaller pool of users and large scale exploitations via TV or online ads will target the largest percentage of users which requires using "Alexa" as the trigger word.
 
 The things that the echo does well that make it at least somewhat useful are: Playing music, Ordering Certain Items, Asking Simple Questions.
 
@@ -21,6 +21,10 @@ I said. "Yes, thats perfect"
 It charged the card I had on file and shipped it to the default address which was my apartment at the time. I even got an email confirmation so I knew exactly what transaction has taken place. Voila. Amazon is such a great enabler of my laziness.
 
 Simple questions like "What temperature is it? Whats the weather like today? Whats traffic like(gives you the time of your commute according to local traffic data)? When was America founded? Who was Amelia Earhart?
+
+The Bad is 90 percent of the skills/apps being made for it are totally unusable garbage. Most of the games i found excruciatingly boring and clumsy to control via voice. 
+
+The Ugly is the amount of times its has no clue what you're asking is very high for something thats supposed to be a more efficient interface than you phone or laptop. When you are directly on the beaten path of "command line-esque" 4 word inputs everything is smooth and then once you're off that track and need any kind of clarification the experience will get frustrating and shitty really quickly.
 
 First it was with text-bots, then building chatbots that interact over facebook messenger. One of the interesting things about a conversational agent is that it can, in theory, reach out to you right as its needed rather than the user having to initiate a query or question. From a business perspective it also makes it a theoretically much higher conversion rates are with one KEY caveat: you have to not annoy them or else it is spam and they will hate you. Your customers need to love you if you want them to spend money. So the majority of your messages need to be "value-add" to the person's life. It needs to be super easy to do and with very little "friction". As few queries and as simple "ease of saying" commands and instructions.
 
