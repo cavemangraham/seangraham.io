@@ -15,5 +15,3 @@ There are basically two kinds of websites: Dynamic websites or "web applications
 Static sites are more like those ancient business sites from 1990. They don't change their data at all. But they are can be hosted for basically free and are extremely quick to load and scale for many users.
 
 JAMstack gives you the best of both worlds by using Javascript and APIs to have dynamic function on a static markdown site. Using serverless/cloud architecture and javascript means everything is run client side in their browser or on third party servers that you only have to pay the actual running time for.
-
-JAMstack gives you the 
