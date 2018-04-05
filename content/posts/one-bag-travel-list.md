@@ -73,29 +73,29 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 ![](/uploads/IMG_3891.JPG)
 
-Carton Supply Grid Notebook - Got this from Michael's right before I left as I kept filling up my hardcover notebooks too quickly. I didn't want lined paper since I draw a lot of diagrams and I didn't want blank pages just in case I decided to make Todo lists so I compromised with a faintly gridded paper that can do both.
+**Carton Supply Grid Notebook** - Got this from Michael's right before I left as I kept filling up my hardcover notebooks too quickly. I didn't want lined paper since I draw a lot of diagrams and I didn't want blank pages just in case I decided to make Todo lists so I compromised with a faintly gridded paper that can do both.
 
-Legal Notepad - This is where I put all of my daily and weekly tasks so I can keep good track of what I'm doing (or, more likely, NOT doing) every day. Ticking boxes can be very addicting.
+**Legal Notepad** - This is where I put all of my daily and weekly tasks so I can keep good track of what I'm doing (or, more likely, NOT doing) every day. Ticking boxes can be very addicting.
 
-3 [Zebra F-701 Pens](https://www.amazon.com/gp/product/B00KCY5OC8/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) each with a [Fisher Space Pen Refill](https://www.amazon.com/gp/product/B007T9E2KY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - Found these while I was looking for tougher, refillable option rather than a plastic ballpoint. These metal pens fit the bill for durability too and are really popular in the EDC(Every Day Carry) crowd. The refill choice was heavily inspired by the "Astronaut Pen" episode of Seinfeld. But who cares as long as it writes upside down and in the rain, right?
+**3** [**Zebra F-701 Pens**](https://www.amazon.com/gp/product/B00KCY5OC8/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) **each with a** [**Fisher Space Pen Refill**](https://www.amazon.com/gp/product/B007T9E2KY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - Found these while I was looking for tougher, refillable option rather than a plastic ballpoint. These metal pens fit the bill for durability too and are really popular in the EDC(Every Day Carry) crowd. The refill choice was heavily inspired by the "Astronaut Pen" episode of Seinfeld. But who cares as long as it writes upside down and in the rain, right?
 
 ### Paperwork - 2 Items
 
-Wallet - Black leather wallet that I've had since I turned 18. One of the best birthday gifts I've ever gotten and its served me perfectly since then.
+**Wallet** - Black leather wallet that I've had since I turned 18. One of the best birthday gifts I've ever gotten and its served me perfectly since then.
 
-Passport - Don't lose this. Or bad things happen.
+**Passport** - Don't lose this. Or bad things happen.
 
 ### Toiletries - 9 Items
 
 ![](/uploads/IMG_3878.JPG)
 
-Safety Razor and Replacement Blades - Can't remember where I got this but it should last me forever. Razor blades are universal so I won't have to worry about finding a specific kind of disposable razor head while I'm abroad(which i hear is a hassle).
+**Safety Razor and Replacement Blades** - Can't remember where I got this but it should last me forever. Razor blades are universal so I won't have to worry about finding a specific kind of disposable razor head while I'm abroad(which i hear is a hassle).
 
-[Lush Dirty Styling Cream](https://www.lushusa.com/hair/styling/dirty-hair-cream/03104.html) - Great stuff. Helps me stay perfectly quaffed even after 20 hour plane rides.
+[**Lush Dirty Styling Cream**](https://www.lushusa.com/hair/styling/dirty-hair-cream/03104.html) - Great stuff. Helps me stay perfectly quaffed even after 20 hour plane rides.
 
-[Lush Argan Oil Shampoo Bar](https://www.lushusa.com/hair/shampoo-bars/jason-and-the-argan-oil/05564.html) - Solid shampoo is a great way to not have to worry about TSA bottle sizes or liquids opening up and leaking on all your clothes. It also seems to last longer than a liquid of the same quantity.
+[**Lush Argan Oil Shampoo Bar**](https://www.lushusa.com/hair/shampoo-bars/jason-and-the-argan-oil/05564.html) - Solid shampoo is a great way to not have to worry about TSA bottle sizes or liquids opening up and leaking on all your clothes. It also seems to last longer than a liquid of the same quantity.
 
-[Universal Drain Plug](https://www.amazon.com/gp/product/B0038JE650/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) - I'm glad I read about someone packing this because I never would've thought of it. Its used for plugging any sink or bathtub to easily handwash your clothes. Thats part of the reason for all the synthetic, quick drying fabric in my wardrobe.
+[**Universal Drain Plug**](https://www.amazon.com/gp/product/B0038JE650/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) - I'm glad I read about someone packing this because I never would've thought of it. Its used for plugging any sink or bathtub to easily handwash your clothes. Thats part of the reason for all the synthetic, quick drying fabric in my wardrobe.
 
 Oral-B Pulse Toothbrush - Wanted something that vibrates since it helps your gums. This is the smallest one I could find although it also means its disposable since the battery and brush head aren't replaceable. I really wanted something like [this](https://www.indiegogo.com/projects/be-the-first-battery-free-powered-toothbrush--3#/) which is a powered toothbrush that runs off kinetic energy rather than batteries but unfortunately its still in prototype/crowdsource-hell stages.
 
