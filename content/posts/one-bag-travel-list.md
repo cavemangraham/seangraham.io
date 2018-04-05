@@ -17,7 +17,7 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 ### Clothing - 25 Items
 
-![](uploads/IMG_3868-iloveimg-compressed.jpg)
+![](/uploads/IMG_3868-iloveimg-compressed.jpg)
 
 **3** [**Lululemon Surge Sock**](https://shop.lululemon.com/p/men-socks/Surge-Sock/_/prod8520007?color=LM9626S_0002&skuId=3774581&locale=en_US&sl=US&CAWELAID=120278590000311002&CID=Google_Fetch_SHOP_A165_A822_C017432&gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hELWngx6KTMkJteqHuIu2b_P3sFEoEIITqfuF0CEqRam82KHQfIQfEaAkCFEALw_wcB&gclsrc=aw.ds) - I don't know why women's sock technology is so far ahead of men's but Lululemon socks fit great and resist odors which is key for me since my feet are known for their toxic properties.
 
