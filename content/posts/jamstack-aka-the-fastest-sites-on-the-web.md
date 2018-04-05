@@ -45,3 +45,5 @@ point godaddy dns to netlify servers
 after netlify dns: one click ssl
 
 force https
+
+Now I can log into Forestry whenever from anywhere and update my posts, add pictures, change my pages around without having to work in the commandline. Like wordpress except its basically free to host, way easier to scale, **more secure** because its static and doesnt have a juicy login to attack.
