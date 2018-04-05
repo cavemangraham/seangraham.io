@@ -9,7 +9,7 @@ Travel the whole wide world. Work less while learning, seeing, and experiencing 
 
 Sounds too good to be true? Well, theres just one small catch: you have to cram everything you own into a **single carry-on bag.**
 
-Challenge accepted :)
+Challenge accepted :D
 
 ### The Bag
 
