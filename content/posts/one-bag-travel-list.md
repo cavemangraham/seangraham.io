@@ -5,9 +5,9 @@ date: 2018-04-03 19:23:10 +0000
 ---
 ### The Idea
 
-Travel the world. Work less while learning, seeing, and experiencing more. And do all that while actually SAVING money rather than spending it.
+Travel the world. Work less while learning, seeing, and experiencing more. And do all that while actually SAVING money rather than spending it. Harness the power of the internet to earn a first world salary while living in a developing nation.
 
-Harness the power of the internet to earn a first world salary while paying a fraction of your normal cost of living by living in a developing nation. Sounds to good to be true? Well, theres just one small catch: you have to cram your whole life and everything you own into a single carry-on bag.
+Sounds to good to be true? Well, theres just one small catch: you have to cram your whole life and everything you own into a **single carry-on bag.**
 
 Challenge accepted!
 
