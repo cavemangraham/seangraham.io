@@ -107,6 +107,8 @@ Having just three main compartments simplifies the packing and makes it really e
 
 **Toothpaste**
 
+**Deoderant**
+
 **Floss**
 
 [**Toiletry Bag**](https://www.amazon.com/gp/product/B073XDGB8H/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1)
