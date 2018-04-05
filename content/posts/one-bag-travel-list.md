@@ -33,7 +33,7 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 **Under Armour Leggings** - Folds down to almost nothing since its so thin but can be layered under shorts or pants for colder nighttime or mountainous temperatures.
 
-[**Patagonia Houdini Alpine Jacket**](http://www.patagonia.com/product/mens-alpine-houdini-jacket/85191.html) - Found this on sale for half-off but the only catch was I had to get it in a color other than black. This whole minimal travel experiment has basically turned me into a goth so it was probably a blessing in disguise. Full jacket that packs down to the size of a soda can. For minimal travel, especially in SE Asia during monsoon season, its a must have.
+[**Patagonia Houdini Alpine Jacket**](http://www.patagonia.com/product/mens-alpine-houdini-jacket/85191.html) - Found this on sale for half-off but the only catch was I had to get it in a color other than black. This whole minimal travel experiment has basically turned me into a goth since black goes with everything so it was probably a blessing in disguise. Its a full jacket that packs down to the size of a soda can with only a quarter of the weight. For minimal travel, especially in SE Asia during monsoon season, its a must have.
 
 **2 Cotton Tanktops**
 
