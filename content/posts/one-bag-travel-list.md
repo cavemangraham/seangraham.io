@@ -61,7 +61,7 @@ Having just three main compartments simplifies the packing and makes it really e
 
 ![](/uploads/IMG_3869.JPG)
 
-**Mid 2012 Mac Book Pro** - Got this off of craigslist when I was in college and had decided to get serious about programming. It still more than handles my workload so theres no reason to upgrade.
+**Mid 2012 Mac Book Pro** - Got this off of craigslist when I was in college and had decided to get serious about programming. It still more than handles my workload so theres no reason to upgrade just yet.
 
 **Iphone 6** - Not shown since it was taking the picture. its unlocked so I can replace the simcard with local prepaid options wherever I go if I want to use it abroad.
 
