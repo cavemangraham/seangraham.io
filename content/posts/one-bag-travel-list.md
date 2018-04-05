@@ -95,33 +95,33 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 ![](/uploads/IMG_3878.JPG)
 
-**Safety Razor and Replacement Blades** - Can't remember where I got this but it should last me forever. Razor blades are universal so I won't have to worry about finding a specific kind of disposable razor head while I'm abroad(which i hear is a hassle).
+**Safety Razor and Replacement Blades** - Can't remember where I got this but it should last me the rest of my life. Razor blades are universal so I won't have to worry about finding a specific kind of disposable razor head while I'm abroad (which i hear is a hassle).
 
-[**Lush Dirty Styling Cream**](https://www.lushusa.com/hair/styling/dirty-hair-cream/03104.html) - Great stuff. Helps me stay perfectly quaffed even after 20 hour plane rides.
+[**Lush Dirty Styling Cream**](https://www.lushusa.com/hair/styling/dirty-hair-cream/03104.html) - Great stuff. Helps me stay perfectly quaffed even after 20 hour plane rides. Smells nice too.
 
-[**Lush Argan Oil Shampoo Bar**](https://www.lushusa.com/hair/shampoo-bars/jason-and-the-argan-oil/05564.html) - Solid shampoo is a great way to not have to worry about TSA bottle sizes or liquids opening up and leaking on all your clothes. It also seems to last longer than a liquid of the same quantity.
+[**Lush Argan Oil Shampoo Bar**](https://www.lushusa.com/hair/shampoo-bars/jason-and-the-argan-oil/05564.html) - Solid shampoo is a great way to not have to worry about TSA bottle sizes or liquids opening up and leaking on all your clothes. It also seems to last longer than a liquid of the same quantity which is just a bonus.
 
-[**Universal Drain Plug**](https://www.amazon.com/gp/product/B0038JE650/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) - I'm glad I read about someone packing this because I never would've thought of it. Its used for plugging any sink or bathtub to easily handwash your clothes. Thats part of the reason for all the synthetic, quick drying fabric in my wardrobe.
+[**Universal Drain Plug**](https://www.amazon.com/gp/product/B0038JE650/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) - I'm glad I read about someone packing this because I never would've thought of it. It's used for plugging any sink or bathtub to easily handwash your clothes. Thats part of the reason for all the synthetic, quick drying fabric in my wardrobe.
 
-Oral-B Pulse Toothbrush - Toothbrushes that vibrate help your gums and this was the smallest one I could find. Unfortunately the by being the smallest it also means its disposable since the battery and brush head aren't replaceable. I really wanted something like [this](https://www.indiegogo.com/projects/be-the-first-battery-free-powered-toothbrush--3#/) which is a powered toothbrush that runs off kinetic energy rather than batteries but unfortunately its still in prototype/crowdsource-hell stages so its not worth the risk.
+**Oral-B Pulse Toothbrush** - Toothbrushes that vibrate help your gums and this was the smallest one I could find. Unfortunately the by being the smallest it also means its disposable since the battery and brush head aren't replaceable. I really wanted something like [this](https://www.indiegogo.com/projects/be-the-first-battery-free-powered-toothbrush--3#/) which is a powered toothbrush that runs off kinetic energy rather than batteries but unfortunately its still in prototype/crowdsource-hell stages so its not worth the risk.
 
-Toothpaste
+**Toothpaste**
 
-Floss
+**Floss**
 
-[Toiletry Bag](https://www.amazon.com/gp/product/B073XDGB8H/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1)
+[**Toiletry Bag**](https://www.amazon.com/gp/product/B073XDGB8H/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1)
 
 ### Misc - 4 Items
 
 ![](/uploads/IMG_3874.JPG)
 
-[Blender Sunglasses](https://www.blenderseyewear.com/collections/top-selects-blenders-eyewear/products/nocturnal-q) - Generic black wayfarers. Thailand makes great Ray-bans knockoffs so they'll probably be replaced soon.
+[**Blender Sunglasses**](https://www.blenderseyewear.com/collections/top-selects-blenders-eyewear/products/nocturnal-q) - Generic black wayfarers. Thailand makes great Ray-bans knockoffs so they'll probably be replaced soon.
 
-[Douglass L Field Lighter](https://urbanedcsupply.com/products/douglass-field-l-lighter) - I got this to replace using disposable plastic Bic lighters. First, I tried to use a Zippo but the fuel evaporates every week whether you used it or not. I hate maintenance like that so I found this WW1-inspired lighter thats handcrafted in Japan. It has an O-ring so the fuel inside it will last up to a year without "going dry".
+[**Douglass L Field Lighter**](https://urbanedcsupply.com/products/douglass-field-l-lighter) - I got this to replace using disposable plastic Bic lighters. First, I tried to use a Zippo but the fuel evaporates every week whether you used it or not. I hate maintenance like that so I found this WW1-inspired lighter thats handcrafted in Japan. It has an O-ring so the fuel inside it will last up to a year without "going dry".
 
-[Universal Travel Adapter](https://www.amazon.com/gp/product/B00OFRGEEK/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) - Basic adapter with some extra USB outlets on the side. Very important to get a universal one rather than lugging around a bunch of different power blocks.
+[**Universal Travel Adapter**](https://www.amazon.com/gp/product/B00OFRGEEK/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) - Basic adapter with some extra USB outlets on the side. Very important to get a universal one rather than lugging around a bunch of different power blocks.
 
-[Microfiber Towel](https://www.amazon.com/gp/product/B073RLH9M6/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) - Microfiber towels kinda suck. They feel like you're rubbing a super thin napkin on yourself rather than a fluffy beach towel BUT they fold down to almost nothing and dry really quickly so I figure its good to have it around. Towelie AND Douglas Adams can't be wrong so its always advised to bring a towel.
+[**Microfiber Towel**](https://www.amazon.com/gp/product/B073RLH9M6/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) - Microfiber towels kinda suck. They feel like you're rubbing a super thin napkin on yourself rather than a fluffy beach towel BUT they fold down to almost nothing and dry really quickly so I figure its good to have it around. Towelie AND Douglas Adams can't be wrong so its always advised to bring a towel.
 
 ## Summary - 48 Items Total\*
 
