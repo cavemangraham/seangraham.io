@@ -1,5 +1,5 @@
 ---
-title: One Bag Travel
+title: 'One Bag Travel: My Life In 48 Items'
 date: 2018-04-03 19:23:10 +0000
 
 ---
