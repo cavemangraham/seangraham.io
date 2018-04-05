@@ -73,9 +73,9 @@ Having just three main compartments simplifies the packing and makes it really e
 
 [**Anker Power Bank**](https://www.amazon.com/gp/product/B00Z9QVE4Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) - When your phone battery dies in a third world country and you have no idea where you are you'll really wish you had one of these in your pack. About the size of a deck of playing cards and can recharge my phone 4+ times before running out of juice.
 
-**Chromecast V1** - Just found out theres a new-fangled V2 that has a 4x faster connection so I will probably upgrade very soon. Basically, it acts like a wireless HDMI cable so I can stream content from my hard drive onto any TV or monitor.
+**Chromecast V1** - Just found out theres a new-fangled [V2](https://www.bestbuy.com/site/google-chromecast-black/4397400.p?skuId=4397400&ref=212&loc=1&gclid=CLDV87Tjo9oCFQW9fgodfxYJ3A&gclsrc=ds) that has a 4x faster connection so I will probably upgrade very soon. Basically, it acts like a wireless HDMI cable so I can stream content from my hard drive onto any TV or monitor.
 
-[**Ultrathin Asus LED Monitor**](https://www.bestbuy.com/site/asus-15-6-led-hd-monitor-black/2882659.p?skuId=2882659&ref=212&loc=1&gclid=CJHyw6DUotoCFczCfgoduh8Ifw&gclsrc=ds) - Super thin portable monitor that connects to my Mac via USB. A lot of my work is with web development and data visualization so it is super helpful to have a second monitor. One screen for code and one for the visuals. A lot of coworking spaces will try and charge you for using their monitors so it can help save that money too.
+[**Ultrathin Asus LED Monitor**](https://www.bestbuy.com/site/asus-15-6-led-hd-monitor-black/2882659.p?skuId=2882659&ref=212&loc=1&gclid=CJHyw6DUotoCFczCfgoduh8Ifw&gclsrc=ds) - Super thin portable monitor that connects to my Mac via USB. A lot of my current work is with web development, rapid prototyping, and data visualization so it's super helpful to have a second monitor. One screen for code and one for the visuals. So you can code continuously rather than having to perpetually to switch windows. Many coworking spaces charge you for using their monitors so it can help save that money too.
 
 **Apple Headphones**
 
