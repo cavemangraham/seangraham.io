@@ -9,6 +9,6 @@ Hi, I'm Sean.
 
 <p><span> I'm an entrepreneur, programmer, and <span style="color: #f07652" id="textslide">problem solver</span></span>.</p>
 
-I am currently in San Francisco building my experimental software studio [Hyperdrive Labs](www.hyperdrivelabs.com).
+I am currently in San Francisco building an experimental software studio called <a href="www.hyperdrivelabs.com" target="_blank">Hyperdrive Labs</a>
 
-I do lots of handstands and regularly eat my bodyweight in stromboli, tacos, and sushi.
+I do a lot of handstands and consume mountains of sushi on a regular basis.

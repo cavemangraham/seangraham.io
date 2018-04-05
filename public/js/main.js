@@ -1,12 +1,11 @@
+console.log("hello!");
 // Word slider
 var quotes = [
-  "world traveller",
+  "world traveler",
   "dungeon master",
   "movie buff",
   "gadget geek",
   "netflix binger",
-  "batman impersonator",
-  "arrow to the knee survivor",
   "rails fanboy",
   ];
 

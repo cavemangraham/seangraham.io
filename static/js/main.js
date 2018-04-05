@@ -1,7 +1,7 @@
 console.log("hello!");
 // Word slider
 var quotes = [
-  "world traveller",
+  "world traveler",
   "dungeon master",
   "movie buff",
   "gadget geek",
