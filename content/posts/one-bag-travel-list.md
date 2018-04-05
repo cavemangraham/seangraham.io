@@ -39,11 +39,11 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 **Under Armour Longsleeve with Hood** - Thicker than the leggings but still folds down to almost nothing while being able to trap a surprising amount of heat if stacked with a tshirt and my rain shell.
 
-[**Grey Express Tshirt**](https://www.express.com/clothing/men/flex-stretch-deep-v-neck-tee/pro/5051301/color/GRAY) **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia. Only downside is that it doesn't dry as quickly as something thinner.
+[**Grey Express Tshirt**](https://www.express.com/clothing/men/flex-stretch-deep-v-neck-tee/pro/5051301/color/GRAY) **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia. Only downside is that it doesn't dry as quickly as some other synthetic materials.
 
-**3** [**Uniqlo Airisms**](https://www.uniqlo.com/us/en/men-airism-boxer-briefs-404999COL09SMB004000.html?s=shopping&gclid=Cj0KCQiA5aTUBRC2ARIsAPoPJk_V3ZI_fJBnMWGROyouTkecVZItQCvRrHOAYCjqhCHkO1PNH-y1Lv4aAhW6EALw_wcB) - I read some really over-the-top reviews for these and although they're ultralight and breathable they didn't like change my life or anything. This is the first time I've ever had to deal with an overhyped underwear situation.
+**3** [**Uniqlo Airisms**](https://www.uniqlo.com/us/en/men-airism-boxer-briefs-404999COL09SMB004000.html?s=shopping&gclid=Cj0KCQiA5aTUBRC2ARIsAPoPJk_V3ZI_fJBnMWGROyouTkecVZItQCvRrHOAYCjqhCHkO1PNH-y1Lv4aAhW6EALw_wcB) - I read some really over-the-top reviews for these and although they're ultralight and breathable they didn't  change my life or anything. This is the first time I've ever had to deal with an overhyped underwear situation.
 
-**3** [**Ultrathin Modal Tshirts**](https://www.amazon.com/David-Archy-Underwear-V-Neck-Undershirts/dp/B00H4SOJ2Q) - "Modal" is a magic space fabric thats super light and extremely soft on your skin. They also fold down to almost nothing which is great for saving space and weight.
+**3** [**Ultrathin Modal Tshirts**](https://www.amazon.com/David-Archy-Underwear-V-Neck-Undershirts/dp/B00H4SOJ2Q) - "Modal" is a magic space fabric thats super light and extremely soft on your skin. They also fold down to almost nothing which is great for saving space and dry almost instantly in the sun.
 
 [**Lululemon ABC Pant**](https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-34/_/prod3470051?color=26857) - These look like dress pants but feel and stretch like pajamas. Really great for the airport since it has a handy front-right zipper pocket perfectly shaped to secure your passport.
 
