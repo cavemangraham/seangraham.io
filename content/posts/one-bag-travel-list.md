@@ -1,5 +1,5 @@
 ---
-title: 'One Bag Travel: My Life In 53 Items'
+title: 'One Bag Travel: My Life In 54 Items'
 date: 2018-04-03 19:23:10 +0000
 
 ---
@@ -111,7 +111,7 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 [**Toiletry Bag**](https://www.amazon.com/gp/product/B073XDGB8H/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1)
 
-### Misc - 4 Items
+### Misc - 5 Items
 
 ![](/uploads/IMG_3874.JPG)
 
@@ -123,7 +123,9 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 [**Microfiber Towel**](https://www.amazon.com/gp/product/B073RLH9M6/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) - Microfiber towels kinda suck. They feel like you're rubbing a super thin napkin on yourself rather than a fluffy beach towel BUT they fold down to almost nothing and dry really quickly so I figure its good to have it around. Towelie AND Douglas Adams can't be wrong so its always good to bring a towel just in case.
 
-## Summary - 53 Items Total\*
+[Vapur Collapsable Water Bottle](https://www.amazon.com/gp/product/B007EEZ3WA/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - Its a water bottle when you need it and it folds down and stays out of your way when you don't. Saves waste and cost from constantly buying water bottles in the airport.
+
+## Summary - 54 Items Total\*
 
 I studied a half dozen or so minimal packing lists from various blogs as well as my own research and testing to get to this list of items. I'm sure my packing choices will only get more refined while I'm on the road so it will be interesting to see how my packing list changes over time. Hopefully someone out there doing the same research I did will find this rundown useful in some way. Either way these 48 items are now my entire life so I hope I've made some good choices but only time will tell.
 
