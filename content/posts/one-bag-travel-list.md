@@ -37,7 +37,7 @@ Having just three main compartments simplifies the packing and makes it really e
 
 **2 Cotton Tanktops**
 
-**Under Armour Longsleeve with Hood** - Thicker than the leggings but still folds down to almost nothing while being able to trap a surprising amount of heat if stacked with a tshirt and my rain shell.
+**Under Armour Longsleeve with Hood** - Thicker than the leggings but still folds down to almost nothing while being able to trap a surprising amount of heat if stacked with a tshirt and rain shell.
 
 [**Grey Express Tshirt**](https://www.express.com/clothing/men/flex-stretch-deep-v-neck-tee/pro/5051301/color/GRAY) **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia. Only downside is that it doesn't dry as quickly as some other synthetic materials.
 
