@@ -71,7 +71,7 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 **Chromecast V1** - Just found out theres a new-fangled V2 that has a 4x faster connection so will probably upgrade very soon. Basically it acts like a wireless HDMI cable so I can stream content from my hard drive onto any tv or monitor.
 
-**Asus LED USB Monitor** -
+[**Ultrathin Asus LED Monitor**](https://www.bestbuy.com/site/asus-15-6-led-hd-monitor-black/2882659.p?skuId=2882659&ref=212&loc=1&gclid=CJHyw6DUotoCFczCfgoduh8Ifw&gclsrc=ds) - Super thin portable monitor that connects to my Mac via USB. A lot of my work is with web development and data visualization so it is super helpful to have a second monitor. A lot of coworking spaces will try and charge you for using their monitors so it can help save that money.
 
 **Apple Headphones**
 
