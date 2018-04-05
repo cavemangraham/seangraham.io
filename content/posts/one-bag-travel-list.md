@@ -97,7 +97,7 @@ Safety Razor and Replacement Blades - Can't remember where I got this but it sho
 
 [Universal Drain Plug](https://www.amazon.com/gp/product/B0038JE650/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) - I'm glad I read about someone packing this because I never would've thought of it. Its used for plugging any sink or bathtub to easily handwash your clothes. Thats part of the reason for all the synthetic, quick drying fabric in my wardrobe.
 
-Oral-B Pulse Toothbrush -
+Oral-B Pulse Toothbrush - Wanted something that vibrates since it helps your gums. This is the smallest one I could find although it also means its disposable since the battery and brush head aren't replaceable. I really wanted something like [this](https://www.indiegogo.com/projects/be-the-first-battery-free-powered-toothbrush--3#/) which is a powered toothbrush that runs off kinetic energy rather than batteries but unfortunately its still in prototype/crowdsource-hell stages.
 
 Toothpaste
 
