@@ -63,13 +63,13 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 **Mid 2012 Mac Book Pro** - Got this off of craigslist when I was in college and had decided to get serious about programming. It still more than handles my workload so theres no reason to upgrade.
 
-**Iphone 6** - Not shown since it was taking the picture. its unlocked so I can replace the simcard with local prepaid options wherever I go.
+**Iphone 6** - Not shown since it was taking the picture. its unlocked so I can replace the simcard with local prepaid options wherever I go if I want to use it abroad.
 
 [**Kindle Paperwhite**](https://www.amazon.com/Amazon-Kindle-Paperwhite-6-Inch-4GB-eReader/dp/B00OQVZDJM/ref=sr_1_1?ie=UTF8&qid=1522795171&sr=8-1&keywords=kindle+paperwhite+e-reader) - While I love the feeling and smells of flipping through a physical book but theres just no way to beat having an entire library fit in your pocket. The impressively efficient e-ink screen keeps it running for weeks without having to worry about charging. Reading is definitely the easiest way to kill 5 hours at an airport for me personally so this is a must-have for travel.
 
 [**Anker Power Bank**](https://www.amazon.com/gp/product/B00Z9QVE4Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) - When your phone battery dies in a third world country and you have no idea where you are you'll really wish you had one of these in your pack. About the size of a deck of playing cards and can recharge my phone 4+ times before running out of juice.
 
-**Chromecast V1** - Just found out theres a new-fangled V2 that has a 4x faster connection so will probably upgrade very soon. Basically it acts like a wireless HDMI cable so I can stream content from my hard drive onto any tv or monitor.
+**Chromecast V1** - Just found out theres a new-fangled V2 that has a 4x faster connection so I will probably upgrade very soon. Basically, it acts like a wireless HDMI cable so I can stream content from my hard drive onto any TV or monitor.
 
 [**Ultrathin Asus LED Monitor**](https://www.bestbuy.com/site/asus-15-6-led-hd-monitor-black/2882659.p?skuId=2882659&ref=212&loc=1&gclid=CJHyw6DUotoCFczCfgoduh8Ifw&gclsrc=ds) - Super thin portable monitor that connects to my Mac via USB. A lot of my work is with web development and data visualization so it is super helpful to have a second monitor. A lot of coworking spaces will try and charge you for using their monitors so it can help save that money.
 
