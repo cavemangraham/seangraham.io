@@ -69,6 +69,16 @@ Asus LED USB Monitor -
 
 Apple Headphones
 
+### Notes - 5 Items
+
+![](/uploads/uploads/IMG_3891.JPG)
+
+Carton Supply Grid Notebook - Got this from Michael's right before I left as I kept filling up hardcover notebooks. I didn't want lined paper since I draw a lot of diagrams and I didn't want blank pages just in case I decided to make Todo lists so I compromised with faintly gridded paper so I can do both.
+
+Notepad - This is where I put all of my daily and weekly tasks so I can keep good track of what I'm doing(or not doing) every day.
+
+3 Zebra 
+
 ### Paperwork - 2 Items
 
 Wallet - Black leather wallet that I've had since I turned 18. One of the best birthday gifts I've ever gotten and its served me perfectly since then.
