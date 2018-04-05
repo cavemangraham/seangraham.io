@@ -79,7 +79,7 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 ![](/uploads/IMG_3891.JPG)
 
-[**Carton Supply Grid Notebook**](https://www.michaels.com/carton-supply-grid-journal-granite/10509723.html) - Got this from Michael's right before I left as I kept filling up my hardcover notebooks too quickly. I didn't want lined paper since I draw a lot of diagrams and I didn't want blank pages just in case I decided to make Todo lists so I compromised with a faintly gridded paper that can do both.
+[**Carton Supply Grid Notebook**](https://www.michaels.com/carton-supply-grid-journal-granite/10509723.html) - Got this from Michael's right before I left as I kept filling up my hardcover notebooks too quickly. I didn't want lined paper since I draw a lot of software diagrams and I didn't want blank pages just in case I decided to make Todo lists so I compromised with a faintly gridded paper that can do both.
 
 **Legal Notepad** - This is where I put all of my daily and weekly tasks/goals so I can keep good track of what I'm doing (or, more likely, NOT doing) every day. Ticking boxes can be very addicting.
 
