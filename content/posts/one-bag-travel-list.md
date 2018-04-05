@@ -39,9 +39,9 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 **3** [**Ultrathin Modal Tshirts**](https://www.amazon.com/David-Archy-Underwear-V-Neck-Undershirts/dp/B00H4SOJ2Q) - Model is a magic space fabric thats super light and extremely soft on your skin. They fold down to almost nothing which is great for saving space.
 
-[Lululemon ABC Pant](https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-34/_/prod3470051?color=26857) - These look like dress pants but feel and stretch like pajamas. Really great for the airport since it has a front-right zipper pocket perfectly shaped to secure your passport.
+[**Lululemon ABC Pant**](https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-34/_/prod3470051?color=26857) - These look like dress pants but feel and stretch like pajamas. Really great for the airport since it has a front-right zipper pocket perfectly shaped to secure your passport.
 
-3 [Birddogs Shorts](https://www.birddogs.com/collections/the-gym-shorts?gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hEaevivnHmyzUvB0jxgBeXdOX7Xlu--5A8UoiaWYf_FrIwJVA0KaXoaArGNEALw_wcB) - These shorts double as swim trunks and feature a comfortable inner liner which is helpful since going "commando" can be much more comfortable in the tropics. They have two zipper pockets in addition to the front pockets which are perfect for storing my phone and keys which is great because i do a lot of handstands so it helps keep things from falling out of my pockets.
+**3** [**Birddogs Shorts**](https://www.birddogs.com/collections/the-gym-shorts?gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hEaevivnHmyzUvB0jxgBeXdOX7Xlu--5A8UoiaWYf_FrIwJVA0KaXoaArGNEALw_wcB) - These shorts double as swim trunks and feature a comfortable inner liner which is helpful since going "commando" can be much more comfortable in the tropics. They have two zipper pockets in addition to the front pockets which are perfect for storing my phone and keys which is great because i do a lot of handstands so it helps keep things from falling out of my pockets.
 
 ### Footwear - 2 Items
 
