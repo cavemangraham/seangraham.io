@@ -31,8 +31,6 @@ Having just three main compartments simplifies the packing and makes it really e
 
 **3** [**Lululemon Surge Sock**](https://shop.lululemon.com/p/men-socks/Surge-Sock/_/prod8520007?color=LM9626S_0002&skuId=3774581&locale=en_US&sl=US&CAWELAID=120278590000311002&CID=Google_Fetch_SHOP_A165_A822_C017432&gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hELWngx6KTMkJteqHuIu2b_P3sFEoEIITqfuF0CEqRam82KHQfIQfEaAkCFEALw_wcB&gclsrc=aw.ds) - My feet are known far and wide for their general toxicity but these Lululemon socks resist odors like champions. I can do a 10 mile hike in them and still not put a dent in their fragrance. Its like magic.
 
-**5 pair Athletic Boxer Briefs** - Got these at Target or something. Not very exciting. Move along.
-
 **Thick Hiking Socks** - Something thicker and higher to help prevent blisters and help protect a bit from creepy-crawlies while hiking.
 
 **Under Armour Leggings** - Folds down to almost nothing since its so thin but can be layered under shorts or pants for colder nighttime or mountainous temperatures.
@@ -44,6 +42,8 @@ Having just three main compartments simplifies the packing and makes it really e
 **Under Armour Longsleeve with Hood** - Thicker than the leggings but still folds down to almost nothing while being able to trap a surprising amount of heat if stacked with a tshirt and rain shell.
 
 [**Grey Express Tshirt**](https://www.express.com/clothing/men/flex-stretch-deep-v-neck-tee/pro/5051301/color/GRAY) **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia. Only downside is that it doesn't dry as quickly as some other synthetic materials.
+
+**5 pair Athletic Boxer Briefs** - Got these at Target or something. Not very exciting. Move along.
 
 **3** [**Uniqlo Airisms**](https://www.uniqlo.com/us/en/men-airism-boxer-briefs-404999COL09SMB004000.html?s=shopping&gclid=Cj0KCQiA5aTUBRC2ARIsAPoPJk_V3ZI_fJBnMWGROyouTkecVZItQCvRrHOAYCjqhCHkO1PNH-y1Lv4aAhW6EALw_wcB) - I read some really over-the-top reviews for these and although they're ultralight and breathable they didn't  change my life or anything. This is the first time I've ever had to deal with an overhyped underwear situation.
 
