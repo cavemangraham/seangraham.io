@@ -127,6 +127,6 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 ## Summary - 54 Items Total\*
 
-I studied a half dozen or so minimal packing lists from various blogs as well as my own research and testing to get to this list of items. I'm sure my packing choices will only get more refined while I'm on the road so it will be interesting to see how my packing list changes over time. Hopefully someone out there doing the same research I did will find this rundown useful in some way. Either way these 48 items are now my entire life so I hope I've made some good choices but only time will tell.
+I studied a half dozen or so minimal packing lists from various blogs as well as my own research and testing to get to this list of items. I'm sure my packing choices will only get more refined while I'm on the road so it will be interesting to see how my packing list changes over time. Hopefully someone out there doing the same research I did will find this rundown useful in some way. Either way these 54 items are now my entire life so I hope I've made some good choices. Only time will tell.
 
 \*I cheated a bit by not counting any small stuff like credit cards, charging cables,  or power blocks but its my list so I'll cheat if I want to!
