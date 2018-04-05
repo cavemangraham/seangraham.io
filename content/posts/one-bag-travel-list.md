@@ -77,7 +77,7 @@ Carton Supply Grid Notebook - Got this from Michael's right before I left as I k
 
 Notepad - This is where I put all of my daily and weekly tasks so I can keep good track of what I'm doing(or not doing) every day.
 
-3 Zebra 
+3 [Zebra F-701 Pens](https://www.amazon.com/gp/product/B00KCY5OC8/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) with [Fisher Space Pen Refills](https://www.amazon.com/gp/product/B007T9E2KY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - Found these while I was looking for tougher metal pens. The refill choice was heavily inspire by the "astronaut pen" episode of Seinfeld. But who cares as long as it writes upside down and in the rain, right?
 
 ### Paperwork - 2 Items
 
