@@ -5,7 +5,7 @@ date: 2018-04-03 19:23:10 +0000
 ---
 ### The Idea
 
-I can't remember when I first learned about minimalist travel ideas or when they started to merge with remote work but the idea that you can earn a first world salary and use long term travel to save money has always interested me. I had a stable job and an apartment for a year before starting on this journey and I was getting very bored seeing, doing, and eating the same things all the time. I started thinking more about what I really wanted for my life and I think a key to my personal happiness is "novel experiences on a regular basis". What better way to have new experiences and grow as a person than getting rid of 95% of my stuff and living lean in exotic places?
+Travel the world. Work less while learning, seeing, and experiencing more. And do all that while actually SAVING money rather than spending it. Harness the power of the internet to earn a first world salary while benefiting from the radically reduced cost of living in a developing nation. Just one catch: you have to cram your whole life into a carry-on bag.
 
 ### The Bag
 
