@@ -5,7 +5,9 @@ date: 2018-04-03 19:23:10 +0000
 ---
 ### The Idea
 
-Travel the world. Work less while learning, seeing, and experiencing more. And do all that while actually SAVING money rather than spending it. Harness the power of the internet to earn a first world salary while benefiting from the radically reduced cost of living in a developing nation. Just one catch: you have to cram your whole life into a carry-on bag.
+Travel the world. Work less while learning, seeing, and experiencing more. And do all that while actually SAVING money rather than spending it. Harness the power of the internet to earn a first world salary while benefiting from the radically reduced cost of living in a developing nation. Just one catch: you have to cram your whole life and every item you own into a single carry-on bag.
+
+Challenge accepted!
 
 ### The Bag
 
