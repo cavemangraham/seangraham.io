@@ -59,15 +59,15 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 **Iphone 6** - Not shown since it was taking the picture
 
-[Kindle Paperwhite](https://www.amazon.com/Amazon-Kindle-Paperwhite-6-Inch-4GB-eReader/dp/B00OQVZDJM/ref=sr_1_1?ie=UTF8&qid=1522795171&sr=8-1&keywords=kindle+paperwhite+e-reader) - While I love the feeling of flipping through a physical book theres just no way to beat having an entire library fit into your pocket. The e-ink screen keeps it running for weeks without having to worry about charging. Reading is definitely the easiest way to kill 5 hours at an airport and I wouldn't be able to carry enough physical books to stay satiated.
+[**Kindle Paperwhite**](https://www.amazon.com/Amazon-Kindle-Paperwhite-6-Inch-4GB-eReader/dp/B00OQVZDJM/ref=sr_1_1?ie=UTF8&qid=1522795171&sr=8-1&keywords=kindle+paperwhite+e-reader) - While I love the feeling of flipping through a physical book theres just no way to beat having an entire library fit in your pocket. The hyper efficient e-ink screen keeps it running for weeks without having to worry about charging which is always nice. Reading is definitely the easiest way to kill 5 hours at an airport for me personally so this is a must-have.
 
-[Anker Power Bank](https://www.amazon.com/gp/product/B00Z9QVE4Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) - When your phone battery dies in a third world country and you have no idea where you are you'll really wish you had one of these in your pack. About the size of a deck of playing cards and can recharge my phone 4+ times before running out of juice. Super handy in emergencies.
+[**Anker Power Bank**](https://www.amazon.com/gp/product/B00Z9QVE4Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) - When your phone battery dies in a third world country and you have no idea where you are you'll really wish you had one of these in your pack. About the size of a deck of playing cards and can recharge my phone 4+ times before running out of juice.
 
-Chromecast V1 - Just found out theres a new-fangled V2 that has a 4x faster connection so will probably upgrade very soon. Basically it acts like a wireless HDMI cable so I can stream content from my hard drive onto any tv or monitor.
+**Chromecast V1** - Just found out theres a new-fangled V2 that has a 4x faster connection so will probably upgrade very soon. Basically it acts like a wireless HDMI cable so I can stream content from my hard drive onto any tv or monitor.
 
-Asus LED USB Monitor -
+**Asus LED USB Monitor** -
 
-Apple Headphones
+**Apple Headphones**
 
 ### Notes - 5 Items
 
