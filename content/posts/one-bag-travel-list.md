@@ -73,23 +73,23 @@ Apple Headphones
 
 ![](/uploads/IMG_3891.JPG)
 
-Carton Supply Grid Notebook - Got this from Michael's right before I left as I kept filling up hardcover notebooks. I didn't want lined paper since I draw a lot of diagrams and I didn't want blank pages just in case I decided to make Todo lists so I compromised with faintly gridded paper so I can do both.
+Carton Supply Grid Notebook - Got this from Michael's right before I left as I kept filling up my hardcover notebooks too quickly. I didn't want lined paper since I draw a lot of diagrams and I didn't want blank pages just in case I decided to make Todo lists so I compromised with a faintly gridded paper that can do both.
 
-Notepad - This is where I put all of my daily and weekly tasks so I can keep good track of what I'm doing(or not doing) every day.
+Legal Notepad - This is where I put all of my daily and weekly tasks so I can keep good track of what I'm doing (or, more likely, NOT doing) every day. Ticking boxes can be very addicting.
 
-3 [Zebra F-701 Pens](https://www.amazon.com/gp/product/B00KCY5OC8/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) with [Fisher Space Pen Refills](https://www.amazon.com/gp/product/B007T9E2KY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - Found these while I was looking for tougher metal pens. The refill choice was heavily inspire by the "astronaut pen" episode of Seinfeld. But who cares as long as it writes upside down and in the rain, right?
+3 [Zebra F-701 Pens](https://www.amazon.com/gp/product/B00KCY5OC8/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) each with a [Fisher Space Pen Refill](https://www.amazon.com/gp/product/B007T9E2KY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - Found these while I was looking for tougher, refillable option rather than a plastic ballpoint. These metal pens fit the bill for durability too and are really popular in the EDC(Every Day Carry) crowd. The refill choice was heavily inspired by the "Astronaut Pen" episode of Seinfeld. But who cares as long as it writes upside down and in the rain, right?
 
 ### Paperwork - 2 Items
 
 Wallet - Black leather wallet that I've had since I turned 18. One of the best birthday gifts I've ever gotten and its served me perfectly since then.
 
-Passport - Don't lose this.
+Passport - Don't lose this. Or bad things happen.
 
 ### Toiletries - 9 Items
 
 ![](/uploads/IMG_3878.JPG)
 
-Safety Razor and Replacement Blades -
+Safety Razor and Replacement Blades - Can't remember where I got this but it should last me forever. Razor blades are universal so I won't have to worry about finding a specific kind of disposable razor head while I'm abroad(which i hear is a hassle).
 
 [Lush Dirty Styling Cream](https://www.lushusa.com/hair/styling/dirty-hair-cream/03104.html) - Great stuff. Helps me stay perfectly quaffed even after 20 hour plane rides.
 
