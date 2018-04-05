@@ -21,7 +21,7 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 ![](/uploads/IMG_3882.JPG)
 
-Being able to fold it open makes it super easy to pack and get access to clothing or your toiletries bag without disturbing anything else. My first trip to Thailand I brought a single-column hiking bag with me and it was very difficult to pull something out of the bag without unpacking the whole damn thing. Dumping all of your clothes out on a dirty airport floor to find a pair of socks gets old extremely quickly, trust me.
+Being able to fold the entire bag open makes it super easy to pack and get access to clothing or your toiletries bag without disturbing anything else. My first trip to Thailand I brought a single-column hiking bag with me and it was very difficult to pull something out of the bag without unpacking the whole damn thing. Dumping all of your clothes out on a dirty airport floor to find a pair of socks gets old extremely quickly, trust me.
 
 Having just three main compartments simplifies the packing and makes it really easy for me to know where my things are rather than having to hunt through a dozen small pockets. Under the main compartment is where I store my laptop, work notepad, and an ultra-thin LED screen. The outermost section has everything I want quick access to like my kindle, notebook + pens, chargers, and passport. All of the zippers can be locked for extra security and the backpack itself is made out of ultra-durable Sailcloth material.
 
