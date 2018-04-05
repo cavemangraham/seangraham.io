@@ -4,4 +4,4 @@ languageCode = "en-us"
 theme = "one"
 title = "seangraham.io"
 [params]
-navigation = ["about.md", "archives.md"]
+navigation = ["about.md", "archives.md", "contact.md"]

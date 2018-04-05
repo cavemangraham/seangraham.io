@@ -3,6 +3,7 @@ console.log("hello!");
 var quotes = [
   "world traveler",
   "dungeon master",
+  "minimalist",
   "movie buff",
   "gadget geek",
   "netflix binger",
