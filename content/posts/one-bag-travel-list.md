@@ -39,7 +39,7 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 **Under Armour Longsleeve with Hood** - Thicker than the leggings but still folds down to almost nothing while being able to trap a surprising amount of heat if stacked with a tshirt and my rain shell.
 
-[**Grey Express Tshirt**](https://www.express.com/clothing/men/flex-stretch-deep-v-neck-tee/pro/5051301/color/GRAY) **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia. Only downside is it doesn't dry as quickly as something thinner.
+[**Grey Express Tshirt**](https://www.express.com/clothing/men/flex-stretch-deep-v-neck-tee/pro/5051301/color/GRAY) **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia. Only downside is that it doesn't dry as quickly as something thinner.
 
 **3** [**Uniqlo Airisms**](https://www.uniqlo.com/us/en/men-airism-boxer-briefs-404999COL09SMB004000.html?s=shopping&gclid=Cj0KCQiA5aTUBRC2ARIsAPoPJk_V3ZI_fJBnMWGROyouTkecVZItQCvRrHOAYCjqhCHkO1PNH-y1Lv4aAhW6EALw_wcB) - I read some really over-the-top reviews for these and although they're ultralight and breathable they didn't like change my life or anything. This is the first time I've ever had to deal with an overhyped underwear situation.
 
