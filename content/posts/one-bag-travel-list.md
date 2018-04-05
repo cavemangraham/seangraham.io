@@ -43,7 +43,7 @@ Having just three main compartments simplifies the packing and makes it really e
 
 **3** [**Uniqlo Airisms**](https://www.uniqlo.com/us/en/men-airism-boxer-briefs-404999COL09SMB004000.html?s=shopping&gclid=Cj0KCQiA5aTUBRC2ARIsAPoPJk_V3ZI_fJBnMWGROyouTkecVZItQCvRrHOAYCjqhCHkO1PNH-y1Lv4aAhW6EALw_wcB) - I read some really over-the-top reviews for these and although they're ultralight and breathable they didn't  change my life or anything. This is the first time I've ever had to deal with an overhyped underwear situation.
 
-**3** [**Ultrathin Modal Tshirts**](https://www.amazon.com/David-Archy-Underwear-V-Neck-Undershirts/dp/B00H4SOJ2Q) - "Modal" is a magic space fabric thats super light and extremely soft on your skin. They also fold down to almost nothing which is great for saving space and dry almost instantly in the sun.
+**3** [**Ultrathin Modal Tshirts**](https://www.amazon.com/David-Archy-Underwear-V-Neck-Undershirts/dp/B00H4SOJ2Q) - "Modal" is a magic space fabric thats super light and extremely soft on your skin. They also fold down to nothing which is great for saving space and they dry almost instantly in the sun.
 
 [**Lululemon ABC Pant**](https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-34/_/prod3470051?color=26857) - These look like dress pants but feel and stretch like pajamas. Really great for the airport since it has a handy front-right zipper pocket perfectly shaped to secure your passport.
 
