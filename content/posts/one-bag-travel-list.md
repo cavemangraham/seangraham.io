@@ -15,9 +15,9 @@ I probably spent 20+ hours looking for a bag that would fit all my needs. If I'm
 
 I wanted something that was water-resistant, compact, and not overly burdened by random pockets and extraneous features. Top contenders were the Minaal 2.0(a bit pricey at $299 and I just naturally distrust kickstarter products), Osprey Farpoint 40(too Jansport-y), GoRuck GR2(Way too expensive at $399 and heavy) but I eventually settled on the [Tortuga Homebase](https://www.tortugabackpacks.com/products/homebase-digital-nomad-travel-backpack) because although its very small, with only 32L capacity, the main compartment is very open. It also has zippers the go all the way around the compartment so it can be opened like a clamshell. This makes it super easy to pack and get access to clothing. Having just three main compartments simplifies packing and makes it really easy for me to know where my things are rather than having to hunt through a dozen small pockets. Under the main compartment is where I store my laptop, work notepad, and an ultra-thin ASUS lcd screen
 
-### Clothing - 24 Items
+### Clothing - 25 Items
 
-![](/uploads/IMG_3868.JPG)
+![](/uploads/uploads/Optimized-IMG_3868.JPG)
 
 **3** [**Lululemon Surge Sock**](https://shop.lululemon.com/p/men-socks/Surge-Sock/_/prod8520007?color=LM9626S_0002&skuId=3774581&locale=en_US&sl=US&CAWELAID=120278590000311002&CID=Google_Fetch_SHOP_A165_A822_C017432&gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hELWngx6KTMkJteqHuIu2b_P3sFEoEIITqfuF0CEqRam82KHQfIQfEaAkCFEALw_wcB&gclsrc=aw.ds) - I don't know why women's sock technology is so far ahead of men's but Lululemon socks fit great and resist odors which is key for me since my feet are known for their toxic properties.
 
@@ -41,7 +41,7 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 [Lululemon ABC Pant](https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-34/_/prod3470051?color=26857) - They look like dress pants but feel and stretch like pajamas. Really great for the airport since it has a front-right zipper pocket perfectly shaped to secure your passport.
 
-2 [Birddogs Shorts](https://www.birddogs.com/collections/the-gym-shorts?gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hEaevivnHmyzUvB0jxgBeXdOX7Xlu--5A8UoiaWYf_FrIwJVA0KaXoaArGNEALw_wcB) - These shorts double as swim trunks and feature a comfortable inner liner which is helpful since going "commando" can be much more comfortable in the tropics. They have two zipper pockets in addition to the front pockets which are perfect for storing my phone and keys which is great because i do a lot of handstands so it helps keep things from falling out of my pockets.
+3 [Birddogs Shorts](https://www.birddogs.com/collections/the-gym-shorts?gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hEaevivnHmyzUvB0jxgBeXdOX7Xlu--5A8UoiaWYf_FrIwJVA0KaXoaArGNEALw_wcB) - These shorts double as swim trunks and feature a comfortable inner liner which is helpful since going "commando" can be much more comfortable in the tropics. They have two zipper pockets in addition to the front pockets which are perfect for storing my phone and keys which is great because i do a lot of handstands so it helps keep things from falling out of my pockets.
 
 ### Footwear - 2 Items
 
@@ -55,7 +55,7 @@ Reef Flip Flops - Perfect shoe for summer and the tropics. Very durable as each 
 
 ![](/uploads/IMG_3869.JPG)
 
-Mid 2012 Mac Book Pro - Got this off of craigslist when I was in college and had decided to get serious about programming. 
+Mid 2012 Mac Book Pro - Got this off of craigslist when I was in college and had decided to get serious about programming.
 
 Iphone 6 - Not shown since it was taking the picture
 
@@ -81,13 +81,13 @@ Passport - Don't lose this.
 
 Safety Razor and Replacement Blades -
 
-[Lush Dirty Styling Cream](https://www.lushusa.com/hair/styling/dirty-hair-cream/03104.html) -
+[Lush Dirty Styling Cream](https://www.lushusa.com/hair/styling/dirty-hair-cream/03104.html) - Great stuff. Helps me stay perfectly quaffed even after 20 hour plane rides.
 
-[Lush Argan Oil Shampoo Bar](https://www.lushusa.com/hair/shampoo-bars/jason-and-the-argan-oil/05564.html) -
+[Lush Argan Oil Shampoo Bar](https://www.lushusa.com/hair/shampoo-bars/jason-and-the-argan-oil/05564.html) - Solid shampoo is a great way to not have to worry about TSA bottle sizes or liquids opening up and leaking on all your clothes. It also seems to last longer than a liquid of the same quantity.
 
-[Universal Drain Plug](https://www.amazon.com/gp/product/B0038JE650/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) -
+[Universal Drain Plug](https://www.amazon.com/gp/product/B0038JE650/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) - I'm glad I read about someone packing this because I never would've thought of it. Its used for plugging any sink or bathtub to easily handwash your clothes. Thats part of the reason for all the synthetic, quick drying fabric in my wardrobe.
 
-Oral-B Pulsing Toothbrush -
+Oral-B Pulse Toothbrush -
 
 Toothpaste
 
@@ -107,7 +107,7 @@ Floss
 
 [Microfiber Towel](https://www.amazon.com/gp/product/B073RLH9M6/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) - Microfiber towels kinda suck. They feel like you're rubbing a super thin napkin on yourself rather than a fluffy beach towel BUT they fold down to almost nothing and dry really quickly so I figure its good to have it around.
 
-### Summary - 42 Items Total\*
+### Summary - 43 Items Total\*
 
 I studied a bunch of minimal packing lists from various blogs as well as my own research and testing to get to this list of items. I'm sure my packing choices will only get more refined while I'm on the road so it will be interesting to see how my packing list changes over time. Hopefully someone out there doing the same research I did will find this and be able to make the best use of their travel budget.
 
