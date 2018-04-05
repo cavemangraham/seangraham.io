@@ -61,7 +61,7 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 ![](/uploads/IMG_3869.JPG)
 
-**Mid 2012 Mac Book Pro** - Got this off of craigslist when I was in college and had decided to get serious about programming. Still more than handles my workload despite having a broken HDMI port.
+**Mid 2012 Mac Book Pro** - Got this off of craigslist when I was in college and had decided to get serious about programming. It still more than handles my workload so theres no reason to upgrade.
 
 **Iphone 6** - Not shown since it was taking the picture. Unlocked so I can replace the simcard with local prepaid options wherever I go.
 
