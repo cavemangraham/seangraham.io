@@ -123,7 +123,7 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 [**Microfiber Towel**](https://www.amazon.com/gp/product/B073RLH9M6/ref=oh_aui_detailpage_o01_s02?ie=UTF8&psc=1) - Microfiber towels kinda suck. They feel like you're rubbing a super thin napkin on yourself rather than a fluffy beach towel BUT they fold down to almost nothing and dry really quickly so I figure its good to have it around. Towelie AND Douglas Adams can't be wrong so its always good to bring a towel just in case.
 
-[Vapur Collapsable Water Bottle](https://www.amazon.com/gp/product/B007EEZ3WA/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - Its a water bottle when you need it and it folds down and stays out of your way when you don't. Saves waste and cost from constantly buying water bottles in the airport.
+[**Vapur Collapsable Water Bottle**](https://www.amazon.com/gp/product/B007EEZ3WA/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - Its a water bottle when you need it and it folds down and stays out of your way when you don't. Saves waste and cost from constantly buying water bottles in the airport.
 
 ## Summary - 54 Items Total\*
 
