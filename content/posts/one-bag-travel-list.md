@@ -135,6 +135,6 @@ I'm open to the idea of removing this whole Notes section along with the Kindle 
 
 ## Summary - 54 Items Total\*
 
-I researched as many packing lists as I could find and then designed it considering to budget, climate, and preference to get to this list of items. I'm hoping my packing choices will only get better while I'm on the road so it will be interesting to see how my list of stuff changes over time. Hopefully someone out there doing the same research I did will find this rundown useful in some way. Either way these 54 items are now my entire life so I hope I've made some good choices. Only time will tell.
+I researched as many packing lists as I could find and then designed my own while trying to balance between budget, climate, and preference. I'm hoping my packing choices will only get better while I'm on the road so it will be interesting to see how my list of stuff changes over time. Hopefully someone out there doing the same research I did will find this rundown useful in some way. Either way these 54 items are now my entire life so I hope I've made some good choices. Only time will tell.
 
 \*I cheated a bit by not counting the bag itself or any small stuff like credit cards, charging cables, or power blocks but its my list so I'll cheat if I want to!
