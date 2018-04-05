@@ -47,17 +47,17 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 ![](/uploads/IMG_3889.JPG)
 
-Reef Flip Flops - Perfect shoe for summer and the tropics. Very durable as each pair I've had lasts me 3-4 years before finally falling apart.
+**Reef Flip Flops** - Perfect shoe for summer and the tropics. Very durable as each pair I've had lasts me 3-4 years before finally falling apart. I used to get the kind with the bottle opener on the bottom but then my dad pointed out that I was putting a surface that touches dogshit on a regular basis onto the the part of the bottle where my mouth was gonna go... Alas, the model without a bottle opener is cheaper anyways.
 
-[Black Leather Sanuk Loafer](https://www.amazon.com/Sanuk-Chibalicious-Deluxe-Slip-Loafer/dp/B06WRVK359) - I call these my "business slippers" since they're extremely comfortable but can totally work as part of a business casual outfit when I need to look presentable. They're also really easy to slip off at the airport when going through security.
+[**Black Leather Sanuk Loafer**](https://www.amazon.com/Sanuk-Chibalicious-Deluxe-Slip-Loafer/dp/B06WRVK359) - I call these my "business slippers" since they're extremely comfortable but can totally work as part of a business casual outfit when I need to look presentable. They're also really easy to slip off at the airport when going through security.
 
 ### Technology - 6 Items
 
 ![](/uploads/IMG_3869.JPG)
 
-Mid 2012 Mac Book Pro - Got this off of craigslist when I was in college and had decided to get serious about programming.
+**Mid 2012 Mac Book Pro** - Got this off of craigslist when I was in college and had decided to get serious about programming.
 
-Iphone 6 - Not shown since it was taking the picture
+**Iphone 6** - Not shown since it was taking the picture
 
 [Kindle Paperwhite](https://www.amazon.com/Amazon-Kindle-Paperwhite-6-Inch-4GB-eReader/dp/B00OQVZDJM/ref=sr_1_1?ie=UTF8&qid=1522795171&sr=8-1&keywords=kindle+paperwhite+e-reader) - While I love the feeling of flipping through a physical book theres just no way to beat having an entire library fit into your pocket. The e-ink screen keeps it running for weeks without having to worry about charging. Reading is definitely the easiest way to kill 5 hours at an airport and I wouldn't be able to carry enough physical books to stay satiated.
 
