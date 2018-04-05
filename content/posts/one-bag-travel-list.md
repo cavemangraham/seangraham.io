@@ -89,11 +89,13 @@ Having just three main compartments simplifies the packing and makes it really e
 
 **3** [**Zebra F-701 Pens**](https://www.amazon.com/gp/product/B00KCY5OC8/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) **each with a** [**Fisher Space Pen Refill**](https://www.amazon.com/gp/product/B007T9E2KY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - Found these while I was looking for tougher, refillable option rather than a plastic ballpoint. These metal pens fit the bill for durability and are really popular in the EDC crowd. The refill choice was heavily inspired by the "Astronaut Pen" episode of Seinfeld but who cares as long as it writes upside down and in the rain, right?
 
+I'm open to the idea of removing this whole Notes section along with the Kindle Paperwhite and just using something like [ReMarkable](https://remarkable.com/?gclid=Cj0KCQjwkpfWBRDZARIsAAfeXaob8rT-3ULbY7SNkpYuT_2OhHOhN5YSkUfoGbZecBhUagsdXhyU-ywaAp1DEALw_wcB) instead. Its basically an e-ink tablet that lets you read ebooks as well as take notes with a pen-like stylus. Right now it is too expensive at $499 and too new to get a used one at a discount. I also heard its software [SUCKS](https://remarkable.com/?gclid=Cj0KCQjwkpfWBRDZARIsAAfeXaob8rT-3ULbY7SNkpYuT_2OhHOhN5YSkUfoGbZecBhUagsdXhyU-ywaAp1DEALw_wcB) but I'll be keeping my eye out for V2 in the future.
+
 ### Paperwork - 2 Items
 
 **Wallet** - Black leather wallet that I've had since I turned 18. One of the best birthday gifts I've ever gotten and its served me perfectly since then.
 
-**Passport** - Don't lose this. Or bad things happen.
+**Passport** - Don't lose this. Or bad things happen. Also you should email yourself a digital copy just in case.
 
 ### Toiletries - 9 Items
 
@@ -133,6 +135,6 @@ Having just three main compartments simplifies the packing and makes it really e
 
 ## Summary - 54 Items Total\*
 
-I studied a half dozen or so minimal packing lists from various blogs as well as my own research and testing to get to this list of items. I'm sure my packing choices will only get more refined while I'm on the road so it will be interesting to see how my packing list changes over time. Hopefully someone out there doing the same research I did will find this rundown useful in some way. Either way these 54 items are now my entire life so I hope I've made some good choices. Only time will tell.
+I researched as many packing lists as I could find and then designed it considering to budget, climate, and preference to get to this list of items. I'm hoping my packing choices will only get better while I'm on the road so it will be interesting to see how my list of stuff changes over time. Hopefully someone out there doing the same research I did will find this rundown useful in some way. Either way these 54 items are now my entire life so I hope I've made some good choices. Only time will tell.
 
 \*I cheated a bit by not counting the bag itself or any small stuff like credit cards, charging cables, or power blocks but its my list so I'll cheat if I want to!
