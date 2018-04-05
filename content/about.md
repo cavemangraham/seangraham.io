@@ -8,6 +8,6 @@ Hi, I'm Sean.
 
 <p><span> I'm an entrepreneur, programmer, and <span style="color: #f07652" id="textslide">problem solver</span></span>.</p>
 
-I am currently in San Francisco building an experimental software studio called <a href="www.hyperdrivelabs.com">Hyperdrive Labs</a>
+I am currently in San Francisco building an experimental software studio called [Hyperdrive Labs](http://www.hyperdrivelabs.com)
 
 I do a lot of handstands and consume mountains of sushi on a regular basis.
