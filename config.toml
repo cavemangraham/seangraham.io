@@ -1,5 +1,5 @@
 baseURL = "https://www.seangraham.io/"
-googleAnalytics = ""
+googleAnalytics = "UA-117028050-1"
 languageCode = "en-us"
 theme = "one"
 title = "seangraham.io"
