@@ -79,11 +79,11 @@ Having just three main compartments simplifies packing and makes it really easy 
 
 ![](/uploads/IMG_3891.JPG)
 
-**Carton Supply Grid Notebook** - Got this from Michael's right before I left as I kept filling up my hardcover notebooks too quickly. I didn't want lined paper since I draw a lot of diagrams and I didn't want blank pages just in case I decided to make Todo lists so I compromised with a faintly gridded paper that can do both.
+[**Carton Supply Grid Notebook**](https://www.michaels.com/carton-supply-grid-journal-granite/10509723.html) - Got this from Michael's right before I left as I kept filling up my hardcover notebooks too quickly. I didn't want lined paper since I draw a lot of diagrams and I didn't want blank pages just in case I decided to make Todo lists so I compromised with a faintly gridded paper that can do both.
 
-**Legal Notepad** - This is where I put all of my daily and weekly tasks so I can keep good track of what I'm doing (or, more likely, NOT doing) every day. Ticking boxes can be very addicting.
+**Legal Notepad** - This is where I put all of my daily and weekly tasks/goals so I can keep good track of what I'm doing (or, more likely, NOT doing) every day. Ticking boxes can be very addicting.
 
-**3** [**Zebra F-701 Pens**](https://www.amazon.com/gp/product/B00KCY5OC8/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) **each with a** [**Fisher Space Pen Refill**](https://www.amazon.com/gp/product/B007T9E2KY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - Found these while I was looking for tougher, refillable option rather than a plastic ballpoint. These metal pens fit the bill for durability too and are really popular in the EDC(Every Day Carry) crowd. The refill choice was heavily inspired by the "Astronaut Pen" episode of Seinfeld. But who cares as long as it writes upside down and in the rain, right?
+**3** [**Zebra F-701 Pens**](https://www.amazon.com/gp/product/B00KCY5OC8/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) **each with a** [**Fisher Space Pen Refill**](https://www.amazon.com/gp/product/B007T9E2KY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) - Found these while I was looking for tougher, refillable option rather than a plastic ballpoint. These metal pens fit the bill for durability and are really popular in the EDC crowd. The refill choice was heavily inspired by the "Astronaut Pen" episode of Seinfeld but who cares as long as it writes upside down and in the rain, right?
 
 ### Paperwork - 2 Items
 
