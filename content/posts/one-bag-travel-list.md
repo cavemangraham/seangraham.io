@@ -9,13 +9,13 @@ Travel the whole wide world. Work less while learning, seeing, and experiencing 
 
 Sounds too good to be true? Well, theres just one small catch: you have to cram everything you own into a **single carry-on bag.**
 
-Challenge accepted :D
+Challenge accepted.
 
 ### The Bag
 
 ![](/uploads/homebase_bag.jpg)
 
-I probably spent 20+ hours looking for a bag that would fit all my needs. If I'm going to be jamming my entire life into it for months or years on end its a huge decision that I didn't want to take lightly. The bag would essentially be like my house.
+I probably spent 20+ hours looking for a bag that would fit all my needs. If I'm going to be stowing my life into it for months or years on end its a huge decision that I didn't want to take lightly. The bag would essentially be like my house.
 
 I wanted something that was water-resistant, compact, and not overly burdened by random pockets and extraneous features. Top contenders were the Minaal 2.0 (a bit pricey at $299 and I just naturally distrust kickstarter products), Osprey Farpoint 40 (too Jansport-y), GoRuck GR2 (Way too expensive at $399 and too heavy). I eventually settled on the [Tortuga Homebase](https://www.tortugabackpacks.com/products/homebase-digital-nomad-travel-backpack) because although its deceptively small, with only 32L capacity, the main compartment is very spacious. It also features zippers that go all the way around the main compartment so it can be opened like a clamshell. This makes it super easy to pack and get access to clothing or your toiletries bag without disturbing anything else. My first trip to Thailand I brought a single-column hiking bag with me and it was very difficult to pull something out of the bag without unpacking the whole damn thing. Dumping all of your clothes out on a dirty airport floor to find a pair of socks gets old extremely quickly, trust me.
 
