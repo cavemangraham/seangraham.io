@@ -55,7 +55,7 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 ![](/uploads/IMG_3869.JPG)
 
-**Mid 2012 Mac Book Pro** - Got this off of craigslist when I was in college and had decided to get serious about programming.
+**Mid 2012 Mac Book Pro** - Got this off of craigslist when I was in college and had decided to get serious about programming. Still more than handles my workload despite having a broken HDMI port.
 
 **Iphone 6** - Not shown since it was taking the picture
 
