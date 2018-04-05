@@ -19,27 +19,27 @@ I probably spent 20+ hours looking for a bag that would fit all my needs. If I'm
 
 I wanted something that was water-resistant, compact, and not overly burdened by random pockets and extraneous features. Top contenders were the Minaal 2.0(a bit pricey at $299 and I just naturally distrust kickstarter products), Osprey Farpoint 40(too Jansport-y), GoRuck GR2(Way too expensive at $399 and too heavy). I eventually settled on the [Tortuga Homebase](https://www.tortugabackpacks.com/products/homebase-digital-nomad-travel-backpack) because although its deceptively small, with only 32L capacity, the main compartment is pretty large. It also has zippers that go all the way around the compartment so it can be opened like a clamshell. This makes it super easy to pack and get access to clothing or your toiletries bag without disturbing anything else. My first trip to Thailand I brought a single-column hiking bag with me and it was very difficult to pull something out of the bag without unpacking the whole thing every time. Dumping all your clothes out on a dirty airport floor to find a pair of socks gets old extremely quickly, trust me.
 
-Having just three main compartments simplifies packing and makes it really easy for me to know where my things are rather than having to hunt through a dozen small pockets. Under the main compartment is where I store my laptop, work notepad, and an ultra-thin ASUS LED screen. The outermost section has everything I want quick access to like my kindle, notebook + pens, chargers, and passport.
+Having just three main compartments simplifies packing and makes it really easy for me to know where my things are rather than having to hunt through a dozen small pockets. Under the main compartment is where I store my laptop, work notepad, and an ultra-thin ASUS LED screen. The outermost section has everything I want quick access to like my kindle, notebook + pens, chargers, and passport. All of the zippers are can be locked for extra security and the backpack itself is made out of ultra-durable Sailcloth material.
 
 ### Clothing - 25 Items
 
 ![](/uploads/IMG_3868-iloveimg-compressed.jpg)
 
-**3** [**Lululemon Surge Sock**](https://shop.lululemon.com/p/men-socks/Surge-Sock/_/prod8520007?color=LM9626S_0002&skuId=3774581&locale=en_US&sl=US&CAWELAID=120278590000311002&CID=Google_Fetch_SHOP_A165_A822_C017432&gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hELWngx6KTMkJteqHuIu2b_P3sFEoEIITqfuF0CEqRam82KHQfIQfEaAkCFEALw_wcB&gclsrc=aw.ds) - I don't know why women's sock technology is so far ahead of men's but Lululemon socks fit great and resist odors which is key for me since my feet are known for their toxic properties.
+**3** [**Lululemon Surge Sock**](https://shop.lululemon.com/p/men-socks/Surge-Sock/_/prod8520007?color=LM9626S_0002&skuId=3774581&locale=en_US&sl=US&CAWELAID=120278590000311002&CID=Google_Fetch_SHOP_A165_A822_C017432&gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hELWngx6KTMkJteqHuIu2b_P3sFEoEIITqfuF0CEqRam82KHQfIQfEaAkCFEALw_wcB&gclsrc=aw.ds) - My feet are known far and wide for their general toxicity but these Lululemon socks resist odors like champions. I can do a 10 mile hike in them and still not put a dent in their fragrance. Its like magic.
 
 **5 pair Athletic Boxer Briefs** - Got these at Target or something. Not very exciting. Move along.
 
-**Thick Hiking Socks** - Something thicker and higher to help prevent blisters and help protect a bit from ticks while hiking.
+**Thick Hiking Socks** - Something thicker and higher to help prevent blisters and help protect a bit from creepy-crawlies while hiking.
 
 **Under Armour Leggings** - Folds down to almost nothing since its so thin but can be layered under shorts or pants for colder nighttime or mountainous temperatures.
 
-**Patagonia Houdini Rain Shell** - Found this on sale for half-off but the only catch was I had to get it in a color other than black. This whole minimal travel experiment has basically turned me into a goth so it was probably a blessing in disguise.
+[**Patagonia Houdini Alpine Jacket**](http://www.patagonia.com/product/mens-alpine-houdini-jacket/85191.html) - Found this on sale for half-off but the only catch was I had to get it in a color other than black. This whole minimal travel experiment has basically turned me into a goth so it was probably a blessing in disguise. Full jacket that packs down to the size of a soda can. For minimal travel, especially in SE Asia during monsoon season, its a must have.
 
 **2 Cotton Tanktops**
 
-**Under Armour Longsleeve with Hood** - Thicker than the leggings but still folds down to almost nothing while being able to trap a lot of heat if stacked with a tshirt and my rain shell.
+**Under Armour Longsleeve with Hood** - Thicker than the leggings but still folds down to almost nothing while being able to trap a surprising amount of heat if stacked with a tshirt and my rain shell.
 
-[**Grey Express Tshirt**](https://www.express.com/clothing/men/flex-stretch-deep-v-neck-tee/pro/5051301/color/GRAY) **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia.
+[**Grey Express Tshirt**](https://www.express.com/clothing/men/flex-stretch-deep-v-neck-tee/pro/5051301/color/GRAY) **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia. Only downside is it doesn't dry as quickly as something thinner.
 
 **3** [**Uniqlo Airisms**](https://www.uniqlo.com/us/en/men-airism-boxer-briefs-404999COL09SMB004000.html?s=shopping&gclid=Cj0KCQiA5aTUBRC2ARIsAPoPJk_V3ZI_fJBnMWGROyouTkecVZItQCvRrHOAYCjqhCHkO1PNH-y1Lv4aAhW6EALw_wcB) - I read some really over-the-top reviews for these and although they're ultralight and breathable they didn't like change my life or anything. This is the first time I've ever had to deal with an overhyped underwear situation.
 
