@@ -25,13 +25,13 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 **Thick Hiking Socks** - Something thicker and higher to help prevent blisters and help protect a bit from ticks while hiking.
 
-**Underarmour Leggings** - Folds down to almost nothing since its so thin but can be layered under shorts or pants for colder nighttime temperatures.
+**Under Armour Leggings** - Folds down to almost nothing since its so thin but can be layered under shorts or pants for colder nighttime or mountainous temperatures.
 
 **Patagonia Houdini Rain Shell** - Found this on sale for half-off but the only catch was I had to get it in a color other than black. This whole minimal travel experiment has basically turned me into a goth so it was probably a blessing in disguise.
 
 **2 Cotton Tanktops**
 
-**Underarmor Longsleeve with Hood** - Thicker than the leggings but still folds down to almost nothing while being able to trap a lot of heat if stacked with a tshirt and my rain shell.
+**Under Armour Longsleeve with Hood** - Thicker than the leggings but still folds down to almost nothing while being able to trap a lot of heat if stacked with a tshirt and my rain shell.
 
 [**Grey Express Tshirt**](https://www.express.com/clothing/men/flex-stretch-deep-v-neck-tee/pro/5051301/color/GRAY) **-** Express makes great fitting tshirts. I would bring a dozen of these if I had the space or if I were going somewhere colder than SE Asia.
 
@@ -39,7 +39,7 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 **3** [**Ultrathin Modal Tshirts**](https://www.amazon.com/David-Archy-Underwear-V-Neck-Undershirts/dp/B00H4SOJ2Q) - Model is a magic space fabric thats super light and extremely soft on your skin. They fold down to almost nothing which is great for saving space.
 
-[Lululemon ABC Pant](https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-34/_/prod3470051?color=26857) - They look like dress pants but feel and stretch like pajamas. Really great for the airport since it has a front-right zipper pocket perfectly shaped to secure your passport.
+[Lululemon ABC Pant](https://shop.lululemon.com/p/men-pants/ABC-Pant-Classic-34/_/prod3470051?color=26857) - These look like dress pants but feel and stretch like pajamas. Really great for the airport since it has a front-right zipper pocket perfectly shaped to secure your passport.
 
 3 [Birddogs Shorts](https://www.birddogs.com/collections/the-gym-shorts?gclid=Cj0KCQjwzIzWBRDnARIsAAkc8hEaevivnHmyzUvB0jxgBeXdOX7Xlu--5A8UoiaWYf_FrIwJVA0KaXoaArGNEALw_wcB) - These shorts double as swim trunks and feature a comfortable inner liner which is helpful since going "commando" can be much more comfortable in the tropics. They have two zipper pockets in addition to the front pockets which are perfect for storing my phone and keys which is great because i do a lot of handstands so it helps keep things from falling out of my pockets.
 
@@ -63,7 +63,7 @@ Iphone 6 - Not shown since it was taking the picture
 
 [Anker Power Bank](https://www.amazon.com/gp/product/B00Z9QVE4Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) - When your phone battery dies in a third world country and you have no idea where you are you'll really wish you had one of these in your pack. About the size of a deck of playing cards and can recharge my phone 4+ times before running out of juice. Super handy in emergencies.
 
-Chromecast V1 - Just found out theres a new fangled V2 thats has a 4x faster connection. Acts like a wireless HDMI cable so I can stream content onto any tv or monitor with an HDMI input.
+Chromecast V1 - Just found out theres a new-fangled V2 that has a 4x faster connection so will probably upgrade very soon. Basically it acts like a wireless HDMI cable so I can stream content from my hard drive onto any tv or monitor.
 
 Asus LED USB Monitor -
 
