@@ -5,7 +5,7 @@ date: 2018-04-03 19:23:10 +0000
 ---
 ### The Idea
 
-Travel the whole wide world. Work less while learning, seeing, and experiencing more. And do all that while actually SAVING money rather than spending it by harnessing the power of the internet to earn a first world salary while living in a developing nation.
+Travel the world, work less while experiencing more, and do all that while actually SAVING money. Harnessing the internet to earn a first world salary while living in a developing nation along the way.
 
 Sounds too good to be true? Well, theres just one small catch: you have to cram everything you own into a **single carry-on bag.**
 
