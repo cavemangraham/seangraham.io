@@ -49,7 +49,7 @@ I wanted something that was water-resistant, compact, and not overly burdened by
 
 **Reef Flip Flops** - Perfect shoe for summer and the tropics. Very durable as each pair I've had lasts me 3-4 years of daily summer use before finally falling apart. I used to get the kind with the bottle opener on the bottom but then my father pointed out that I was putting a surface that regularly touches dog shit onto the the part of the bottle where my mouth was gonna go... alas, the model without a bottle opener is cheaper anyways.
 
-[**Black Leather Sanuk Loafer**](https://www.amazon.com/Sanuk-Chibalicious-Deluxe-Slip-Loafer/dp/B06WRVK359) - I call these my "business slippers" since they're extremely comfortable but can also work as "business casual" if I need to look presentable. They're also really easy to slip off at the airport when going through security so no one thinks you're gonna bomb them with your footwear.
+[**Black Leather Sanuk Loafer**](https://www.amazon.com/Sanuk-Chibalicious-Deluxe-Slip-Loafer/dp/B06WRVK359) - I call these my "business slippers" since they're extremely comfortable but can also work as "business casual" if I need to look presentable. They're also really easy to slip off at the airport when going through security so no one thinks you're harboring foot-bombs.
 
 ### Technology - 6 Items
 
