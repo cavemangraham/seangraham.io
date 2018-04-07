@@ -6,6 +6,8 @@ title = "Resources"
 +++
 ### Stuff I Love On The Web
 
+[Astronaut.io](http://astronaut.io/#) - This website finds previously unseen youtube videos for you to watch. Very interesting to see what pops up. Reminds me of "Interdimensional Cable"
+
 [Hackernews](https://news.ycombinator.com/news) - best tech news on the net
 
 [Electronic Freedom Foundation](https://www.eff.org/) - The leading non-profit defending digital privacy, free speech, and innovation.
@@ -16,7 +18,9 @@ title = "Resources"
 
 [Forestry.io](www.forestry.io) - CMS for static sites
 
-XinYminutes - quickly learn new programming languages
+[Learn X In Y Minutes](https://learnxinyminutes.com/) - quickly learn new programming languages
+
+[One Page Love](https://onepagelove.com/) - 
 
 Evernote - cloud notes that work on laptop and phone
 
