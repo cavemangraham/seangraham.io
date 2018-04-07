@@ -6,7 +6,7 @@ title = "Resources"
 +++
 ### Stuff I Love On The Web
 
-[Astronaut.io](http://astronaut.io/#) - This website finds previously unseen youtube videos for you to watch. Very interesting to see what pops up. Reminds me of "Interdimensional Cable"
+[Astronaut.io](http://astronaut.io/#) - This website plays short clips youtube videos for you to watch that have no previous views. Very interesting to see what pops up. Reminds me of "Interdimensional Cable"
 
 [Hackernews](https://news.ycombinator.com/news) - best tech news on the net
 
