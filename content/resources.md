@@ -6,9 +6,9 @@ title = "Resources"
 +++
 ### Stuff I Love On The Web
 
-[Astronaut.io](http://astronaut.io/#) - This website plays short clips youtube videos for you to watch that have no previous views. Very interesting to see what pops up. Reminds me of "Interdimensional Cable"
+[Astronaut.io](http://astronaut.io/#) - This website plays short youtube videos that have no previous views. Very interesting to see what pops up. Reminds me of "Interdimensional Cable".
 
-[Hackernews](https://news.ycombinator.com/news) - best tech news on the net
+[Hackernews](https://news.ycombinator.com/news) - Best tech news on the net.
 
 [Electronic Freedom Foundation](https://www.eff.org/) - The leading non-profit defending digital privacy, free speech, and innovation.
 
@@ -20,7 +20,7 @@ title = "Resources"
 
 [Learn X In Y Minutes](https://learnxinyminutes.com/) - quickly learn new programming languages
 
-[One Page Love](https://onepagelove.com/) - 
+[One Page Love](https://onepagelove.com/) -
 
 Evernote - cloud notes that work on laptop and phone
 
