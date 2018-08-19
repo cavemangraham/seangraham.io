@@ -19,6 +19,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/posts/honest-review-of-remarkable-tablet.md
 - content/posts/guns-germs-and-steel.md
 - content/contact.md
 - content/posts/the-good--the-bad--and-the-ugly-of-the-amazon-echo.md
