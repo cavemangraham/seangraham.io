@@ -19,6 +19,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/posts/my-static-stack-jekyll-netlify-forestry.md
 - content/posts/honest-review-of-remarkable-tablet.md
 - content/posts/guns-germs-and-steel.md
 - content/contact.md
