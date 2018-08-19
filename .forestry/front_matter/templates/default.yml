@@ -1,11 +1,7 @@
 ---
-pages:
-- resources.md
-- contact.md
-- posts/jamstack-aka-the-fastest-sites-on-the-web.md
-- posts/ethereum-quickstart.md
-- posts/the-good--the-bad--and-the-ugly-of-the-amazon-echo.md
+label: default
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -22,3 +18,10 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- content/posts/guns-germs-and-steel.md
+- content/contact.md
+- content/posts/the-good--the-bad--and-the-ugly-of-the-amazon-echo.md
+- content/resources.md
+- content/posts/ethereum-quickstart.md
+- content/posts/jamstack-aka-the-fastest-sites-on-the-web.md

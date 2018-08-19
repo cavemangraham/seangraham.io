@@ -1,10 +1,22 @@
 ---
-upload_path: "/static/uploads/"
-frontmatter_file_url_template: "/static/uploads/"
-body_file_url_template: "/static/uploads/"
 new_page_extension: md
 auto_deploy: true
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: content/posts
+  label: Posts
+  create: all
+  match: "**/*"
+upload_dir: static/uploads
+public_path: "/static/uploads"
+front_matter_path: "/static/uploads"
+use_front_matter_path: false
+file_template: ":filename:"
 version: 0.37.1
