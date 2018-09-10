@@ -1,6 +1,5 @@
 +++
 date = "2018-08-19T16:18:01+00:00"
-draft = true
 title = "JAMstack is <3"
 
 +++
