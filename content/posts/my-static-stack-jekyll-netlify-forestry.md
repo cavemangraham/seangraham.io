@@ -38,4 +38,4 @@ Now I can log into Forestry.io from anywhere and update my posts, add pictures, 
 
 What this means for me is that the site is light, fast, secure, and cheap since I don't need to pay for a hosting plan every month.
 
-JAMstack is not suitable for every single website or project(I still build most of my applications in Ruby and Rails) however most business and informational websites would gain significant benefits from switching from something like Wordpress to a JAMstack build. This is definitely a tool that any serious web developer should have in their toolbox if they respect their users.
+JAMstack is obviously not suitable for every single website or project(I still build most of my applications in Ruby and Rails) however most business and informational websites would gain significant benefits from switching from something like Wordpress to a JAMstack build. This is definitely a paradigm that any serious web developer should have in their toolbox if they respect their users.
