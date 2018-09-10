@@ -38,6 +38,4 @@ This site was built using JAMstack principles. Here's how I did it: I used Hugo,
 
 Now I can log into Forestry.io from anywhere and update my posts, add pictures, and change my pages around without having to work in the command line. It's like having usability of Wordpress except it's free to host, easier to scale, and **way more secure** since it doesn't have a juicy login page to attack.
 
-What this means for me is that the site is light, fast, secure, and cheap since I don't need to pay for a hosting plan every month.
-
 JAMstack is obviously not suitable for every single website or project(I still build most of my applications in Ruby and Rails) however most business and informational websites would gain significant benefits from switching from something like Wordpress to a JAMstack build. This is definitely a paradigm that any serious web developer should have in their toolbox if they respect their users.
