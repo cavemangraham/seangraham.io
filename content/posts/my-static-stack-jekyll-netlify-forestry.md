@@ -15,9 +15,7 @@ JAMstack gives you the best of both worlds by using Javascript and APIs to have 
 
 The best part about JAMstack is that it isnt some new framework that you have to learn. It is more about using your current skills in JS, HTML, and CSS to create something flexible, powerful, and blazingly fast. At its core the JAMstack website reads as a gathering of tools and best practices for unleashing the power of static sites. Using Javascript and API's can perform the dynamic side while the actual pages are statically generated and delivered via CDN for blazing fast TTL.
 
-This site was built using JAMstack principles. Here's how I did it.
-
-Hugo, Github.com, Forestry.io, Netlify.com, GoDaddy.com
+This site was built using JAMstack principles. Here's how I did it. I used Hugo, Github, Forestry.io, Netlify, and GoDaddy(I have since moved to Namecheap).
 
     install hugo
     create site
