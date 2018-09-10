@@ -30,18 +30,6 @@ This site was built using JAMstack principles. Here's how I did it. I used Hugo,
     after netlify dns: one click ssl
     force https
 
- 1. create site
- 2. git repo init
- 3. install theme
- 4. git push
- 5. connect netlify
- 6. connect forestry.io
- 7. publish new post
- 8. setup custom domain in netlify
- 9. point godaddy dns to netlify servers
-10. after netlify dns: one click ssl
-11. force https
-
 Now I can log into Forestry whenever from anywhere and update my posts, add pictures, change my pages around without having to work in the command line. Like Wordpress except its basically free to host, way easier to scale, **more secure** because its static and doesn't have a juicy login to attack.
 
 What this means for me is that the site is light, fast, secure, and cheap since I don't need to pay for a hosting plan every month.
