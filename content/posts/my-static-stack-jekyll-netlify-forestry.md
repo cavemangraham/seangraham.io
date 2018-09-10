@@ -7,8 +7,6 @@ Officially, JAMstack is:
 
 > Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
 
-![](/uploads/uploads/Screen Shot 2018-04-04 at 12.35.53 PM.png)
-
 But _really_, JAMstack represents the growing pushback from developers about ridiculous page bloat, javascript "front-end-of-the-week" fatigue, and overly complex web frameworks. We have text articles slowly loading multiple megabytes of [tracking](https://fieldguide.gizmodo.com/all-the-ways-facebook-tracks-you-that-you-might-not-kno-1795604150)/[ads](https://digiday.com/media/is-this-the-worst-page-on-the-internet/)/[cryptomining](https://arstechnica.com/information-technology/2017/11/sneakier-more-persistent-drive-by-cryptomining-comes-to-a-browser-near-you/) rather than loading instantly with the information the user actually wanted. We have two major and incompatible versions of Angular in production. Front-ends are becoming replications of the entire backend which creates twice as many places for errors and slows down development considerably. Working on the web can be faster and easier if you abstract out the most common features of web pages as APIs rather than reinventing the wheel every time with the language du jour.
 
 Making your sites as light as possible helps you use less of your clients bandwidth and makes it easier and massively cheaper to scale.
