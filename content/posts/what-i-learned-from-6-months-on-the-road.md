@@ -8,7 +8,7 @@ title = "Lessons From 6 Months On The Road"
 
 I don't work well from coworking spaces. I do my best work from the comfort of my bed.
 
-Travel is cheap as long as you're flexible and it's even cheaper if you're willing to suffer (hello 15 hour layover, my old friend)
+Travel is cheap as long as you're flexible and it's even cheaper if you're willing to suffer (hello 15 hour layover, my old friend).
 
 'Low season' is your friend.
 
