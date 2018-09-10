@@ -3,6 +3,8 @@ date = "2018-08-19T16:18:01+00:00"
 title = "JAMstack is <3"
 
 +++
+![](/static/uploads/Screen Shot 2018-04-04 at 12.35.53 PM.png)
+
 Officially, JAMstack is:
 
 > Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
