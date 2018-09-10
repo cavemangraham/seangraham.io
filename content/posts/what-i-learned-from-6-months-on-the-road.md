@@ -12,7 +12,7 @@ Low season is your friend.
 
 More underwear, less pants.
 
-Loneliness is a state of mind.
+Loneliness is optional.
 
 It is easier to change all your habits then to just add one.
 
