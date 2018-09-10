@@ -6,16 +6,16 @@ title = "Lessons From 6 Months On The Road"
 +++
 I don't work well from coworking spaces. I do my best work from the comfort of my bed.
 
-Travel is cheap as long as you're flexible. Its even cheaper if you're willing to suffer (hello 15 hour layover, my old friend)
+Travel is cheap as long as you're flexible and it's even cheaper if you're willing to suffer (hello 15 hour layover, my old friend)
 
-Low season is your friend.
+'Low season' is your friend.
 
 More underwear, less pants.
 
 Loneliness is optional.
 
-It is easier to change all your habits then to just add one.
+Changing your environment is the easiest way to change your habits.
 
 Sunlight is an important factor for my mental health.
 
-Running a business is the best and worst feeling thing in the world.
+Running a business generates the best and worst feelings in the world.
