@@ -4,4 +4,4 @@ draft = true
 title = "What I Learned From 6 Months On The Road"
 
 +++
-
+MONTHS
