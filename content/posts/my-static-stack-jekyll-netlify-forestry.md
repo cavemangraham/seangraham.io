@@ -4,6 +4,8 @@ draft = true
 title = "Will JAMstack kill Wordpress?"
 
 +++
-JAMstack refers to the use of Javascript, APIs, and Markup to creating websites that are fast, reliable, and secure. I built this website using Jekyll as my site builder, Netlify for free static hosting and SSL, and Forestry.io to make it easy to update the site and add new articles.
+JAMstack is a modern web development architecture that based on Client-side Javascript, reusable APIs, and prebuilt Markup to creating websites that are fast, reliable, and secure. I built this website using Jekyll to build my static site, Netlify for free static hosting and SSL, and Forestry.io which makes it easy to update the site and add new articles.
 
-What this means for me is that the site is very light, very fast, secure, and cheap since I don't need to pay for a hosting plan every month.
+What this means for me is that the site is light, fast, secure, and cheap since I don't need to pay for a hosting plan every month.
+
+JAMstack is not suitable for every single website or project(I still build most of my applications in Ruby and Rails) however most business websites would gain significant benefits from switching from something like Wordpress to a custom JAMstack build.
