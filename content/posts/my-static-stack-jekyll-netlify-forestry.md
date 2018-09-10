@@ -35,7 +35,6 @@ This site was built using JAMstack principles. Here's how I did it: I used Hugo,
     after netlify dns: one click ssl
     force https
     voila!
-    
 
 Now I can log into Forestry.io from anywhere and update my posts, add pictures, and change my pages around without having to work in the command line. It's like having usability of Wordpress except it's free to host, easier to scale, and **way more secure** since it doesn't have a juicy login page to attack.
 
