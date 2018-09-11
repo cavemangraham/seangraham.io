@@ -4,4 +4,3 @@ draft = true
 title = "One Bag Travel: My Life in 54 Items"
 
 +++
-
