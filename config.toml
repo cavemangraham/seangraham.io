@@ -1,7 +1,39 @@
-baseURL = "https://www.seangraham.io/"
-googleAnalytics = "UA-117028050-1"
-languageCode = "en-us"
-theme = "one"
-title = "seangraham.io"
+baseurl = "https://example.com/"
+languageCode = "en-US"
+title = "Sean Graham"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
 [params]
-navigation = ["about.md", "archives.md", "contact.md"]
+  avatar = "profile.jpg"
+  author = "Sean graham"
+  description = "Describe your website"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "cavemangraham"
+  Email         = "seangraham@protonmail.com"
+  Twitter       = "cavemangraham"
+  LinkedIn      = "username"
+  Stackoverflow = ""
+  Medium        = ""
+  Telegram      = ""
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"

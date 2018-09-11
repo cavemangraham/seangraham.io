@@ -1,21 +1,14 @@
-console.log("hello!");
-// Word slider
-var quotes = [
-  "world traveler",
-  "dungeon master",
-  "minimalist",
-  "movie buff",
-  "gadget geek",
-  "netflix binger",
-  "rails fanboy",
-  ];
+/**
+ * Created by fabiomadeira on 25/02/15.
+ */
+// jQuery for page scrolling feature
+jQuery(document).ready(function(e) {
+    e(".scroll").click(function(t) {
+        t.preventDefault();
+        e("html,body").animate({
+            scrollTop: e(this.hash).offset().top
+        }, 1e3)
+    })
+});
 
-  var i = 0;
 
-  setInterval(function() {
-    $("#textslide").html(quotes[i]);
-      if (i == quotes.length)
-         i=0;
-      else
-          i++;
-      }, 1 * 2000);
