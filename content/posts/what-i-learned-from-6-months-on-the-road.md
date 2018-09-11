@@ -4,7 +4,7 @@ draft = true
 title = "Lessons From 6 Months On The Road"
 
 +++
-6 Months and 5 Countries later...
+5 Months and 4 Countries later...
 
 I don't work well from coworking spaces. I do my best work from the comfort of my bed.
 
