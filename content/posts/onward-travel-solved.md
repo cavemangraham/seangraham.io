@@ -4,4 +4,8 @@ draft = true
 title = "Proof Of Onward Travel Solution"
 
 +++
+Proof of onward travel
 
+mostly by airlines
+
+expedia 24 hour refundable tickets
