@@ -1,10 +1,10 @@
 /* Main page with stikky-footer */
 html, body {
   height: 100%;
-  background-color: #fff;
+  background-color: transparent;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #27A822;
+  border-top: 3px solid #da552f;
   overflow-x: hidden;
 }
 
@@ -12,7 +12,8 @@ html, body {
     position: absolute;
     width: 100%;
     height: 100%;
-    z-index: 0;
+    z-index: -1;
+    opacity: 0.6;
 }
 
 /* Wrapper for page content to push down footer */
@@ -197,7 +198,7 @@ html, body {
 	color: #6b6b6b;
 }
 div.footer{
-  border-bottom: 5px solid #27A822;;
+  border-bottom: 5px solid #da552f;
 }
 /* Set the fixed height of the footer here */
 /*.footer {
