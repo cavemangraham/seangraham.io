@@ -1,6 +1,8 @@
 {{ partial "head" . }}
   <body>
     <div id="wrap">
+      <div id="particles-js">
+      </div>
       {{ partial "header" . }}
       <section id="about">
         <div class="container">
@@ -14,8 +16,10 @@
         <h3>Contact me at <a href="http://twitter.com/{{ .Site.Params.Social.Twitter }}">@{{ .Site.Params.Social.Twitter }}</a> or by <a href="mailto:{{ .Site.Params.Social.Email }}">email</a>.</h3>
         {{ partial "social.html" . }}
         </div>
+      </div>
       </section>
     </div>
     {{ partial "footer" . }}
+    <script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
   </body>
 </html>
