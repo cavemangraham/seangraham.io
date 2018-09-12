@@ -1,11 +1,11 @@
 +++
-date = ""
+date = "2018-04-07T02:34:36+00:00"
 title = "Resources"
 
 +++
 ### Stuff I Love On The Web
 
-[Astronaut.io](http://astronaut.io/#) - This website plays short youtube videos that have no previous views. Very interesting to see what pops up.
+[Astronaut.io](http://astronaut.io/#) - This website plays short youtube videos that have no previous views. Very interesting to see what pops up. Reminds me of "Interdimensional Cable".
 
 [Hackernews](https://news.ycombinator.com/news) - Best tech news on the net.
 
