@@ -1,19 +1,19 @@
 {{ partial "head" . }}
   <body>
     <div id="wrap">
+      <div id="particles-js">
+      </div>
       {{ partial "header" . }}
       <section id="about" style="background: transparent; z-index: 2;">
-        <div id="particles-js">
-        </div>
         <div class="container">
         <div class="avatar">
           <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
         </div>
-        <h3>I'm <strong>{{ .Site.Params.author }}</strong>, a Software Developer, Entrepreneur, and <a href="{{ .Site.BaseURL }}blog/one-bag-travel-my-life-in-54-items/">World Traveler.</a></h3>
+        <h3>Hey I'm <strong>{{ .Site.Params.author }}</strong>,</h3>
+        <h3>Software Developer, Entrepreneur, and <a href="{{ .Site.BaseURL }}blog/one-bag-travel-my-life-in-54-items/">World Traveler.</a></h3>
         <h3>Currently building <a href="www.feastflow.com">Feastflow</a> to help freelance developers make more money.</a></h3>
         <h3>I love building products, launching businesses, and learning from my mistakes.</h3>
-        <h3>Have a look at some of my working <a href="{{ .Site.BaseURL }}projects/"> projects</a>.</h3>
-        <h3>Contact me at <a href="http://twitter.com/{{ .Site.Params.Social.Twitter }}">@{{ .Site.Params.Social.Twitter }}</a> or by <a href="mailto:{{ .Site.Params.Social.Email }}">email</a>.</h3>
+        <h3>Contact me via <a href="mailto:{{ .Site.Params.Social.Email }}">email</a> anytime for a friendly chat :)</h3>
         {{ partial "social.html" . }}
         </div>
       </div>

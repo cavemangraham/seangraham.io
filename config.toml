@@ -11,7 +11,7 @@ theme = "hugo-sustain"
 [params]
   avatar = "profile.jpg"
   author = "Sean Graham"
-  description = "Describe your website"
+  description = ""
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
@@ -21,7 +21,7 @@ theme = "hugo-sustain"
   Github        = "cavemangraham"
   Email         = "seangraham@protonmail.com"
   Twitter       = "cavemangraham"
-  LinkedIn      = "username"
+  LinkedIn      = "sean-graham-13227b7a"
   Stackoverflow = ""
   Medium        = ""
   Telegram      = ""
