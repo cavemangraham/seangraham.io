@@ -1,12 +1,11 @@
 +++
-date = "2018-04-07T02:34:36+00:00"
-draft = false
+date = ""
 title = "Resources"
 
 +++
 ### Stuff I Love On The Web
 
-[Astronaut.io](http://astronaut.io/#) - This website plays short youtube videos that have no previous views. Very interesting to see what pops up. Reminds me of "Interdimensional Cable".
+[Astronaut.io](http://astronaut.io/#) - This website plays short youtube videos that have no previous views. Very interesting to see what pops up.
 
 [Hackernews](https://news.ycombinator.com/news) - Best tech news on the net.
 
@@ -16,12 +15,10 @@ title = "Resources"
 
 [Netlify](www.netlify.com) - Free static site hosting, content delivery network, with SSL and custom domain.
 
-[Forestry.io](www.forestry.io) - CMS for static sites
+[Forestry.io](www.forestry.io) - Very nice looking CMS for static sites.
 
-[Learn X In Y Minutes](https://learnxinyminutes.com/) - quickly learn new programming languages
+[Learn X In Y Minutes](https://learnxinyminutes.com/) - Great way to quickly get up to speed with new programming languages.
 
-[One Page Love](https://onepagelove.com/) -
+[One Page Love](https://onepagelove.com/) - Great inspiration for landing pages and simple websites.
 
-Evernote - cloud notes that work on laptop and phone
-
-Stripe - Powerful and developer friendly payment processing.
+[Stripe](stripe.com) - Powerful and developer friendly payment processing. I use them for all my own online businesses.
