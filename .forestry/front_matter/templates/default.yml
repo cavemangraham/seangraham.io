@@ -19,6 +19,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/posts/feastflow-development.md
 - content/resources.md
 - content/posts/one-bag-travel-my-life-in-54-items.md
 - content/posts/onward-travel-solved.md
