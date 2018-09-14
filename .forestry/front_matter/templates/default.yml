@@ -19,6 +19,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/posts/product-launch-feastflow.md
 - content/posts/introducing-hotpatch-io.md
 - content/resources.md
 - content/posts/feastflow-development.md
