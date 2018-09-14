@@ -4,4 +4,4 @@ draft = true
 title = "Introducing Hotpatch.io"
 
 +++
-
+The best 5 programming and web development links delivered to your inbox every day.
