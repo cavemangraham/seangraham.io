@@ -16,7 +16,9 @@ title = "Resources"
 
 [Netlify](www.netlify.com) - Free static site hosting, content delivery network, with SSL and custom domain.
 
-[Placeholder.com](https://placeholder.com/) - Convenient way to mock up sites with placeholder images. **<img src="**[**https://via.placeholder.com/350x150**](https://via.placeholder.com/350x150 "https://via.placeholder.com/350x150")**">**
+[Placeholder.com](https://placeholder.com/) - Convenient way to mock up sites with placeholder images.  Very simple to start using, just tag your images like this:
+
+    <img src="https://via.placeholder.com/350x150">
 
 [Forestry.io](www.forestry.io) - Very nice looking CMS for static sites.
 
