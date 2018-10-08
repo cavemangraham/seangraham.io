@@ -19,6 +19,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/posts/things-i-learned-from-hacker-news.md
 - content/posts/product-launch-feastflow.md
 - content/posts/introducing-hotpatch-io.md
 - content/resources.md
