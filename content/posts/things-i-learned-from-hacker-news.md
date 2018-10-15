@@ -12,4 +12,10 @@ Schelling Point: A place where people congregate without coordination.
 
 Godwin's Law: "As an online discussion grows longer, the probability of a comparison involving Hitler [approaches 1](https://en.wikipedia.org/wiki/Convergence_of_random_variables#Convergence_in_probability "Convergence of random variables")"
 
-Pascal's Wager: 
+Pascal's Wager:
+
+Streisand Effect: Banning something only serves to increase it appeal and spread
+
+Dunning-Kruger: The dumbest people are also the most confident in their abilities since they "don't know what they don't know"
+
+The Peter Principle: An employee will rise to the level of their incompetence
