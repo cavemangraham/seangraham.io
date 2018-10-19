@@ -1,7 +1,7 @@
 +++
 date = "0003-01-20T00:00:00.000+00:00"
 draft = true
-title = "Things I Learned From Hacker News"
+title = "Things I've Learned From Hacker News"
 
 +++
 **Chesterton's Fence**: Don't remove a rule unless you understand why it is there in the first place.
@@ -19,3 +19,11 @@ title = "Things I Learned From Hacker News"
 **Dunning-Kruger**: The dumbest people are also the most confident in their abilities since they "don't know what they don't know"
 
 **The Peter Principle**: An employee will rise to the level of their incompetence
+
+**Cobra Effect**: When an attempted solution to a problem makes the problem worse
+
+**Shibboleth**: cultural touchstone used to deifne an "in group" and "out group"
+
+**Dunbar's number**: the estimated number of meaningful social connections a human can make is around 150. Military uses.
+
+**Black Swan:**
