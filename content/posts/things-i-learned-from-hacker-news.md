@@ -26,4 +26,6 @@ title = "Things I've Learned From Hacker News"
 
 **Dunbar's number**: the estimated number of meaningful social connections a human can make is around 150. Military uses.
 
-**Black Swan:**
+**Black Swan Event:**
+
+**Cargo Cult:** 
